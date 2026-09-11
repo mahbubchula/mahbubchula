@@ -1,10 +1,29 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mahbub+Hassan+%F0%9F%91%8B;Transportation+%26+AI+Researcher;MSc+%40+Chulalongkorn+University+%F0%9F%87%B9%F0%9F%87%AD;NLP+%7C+XAI+%7C+LLM+%7C+Smart+Mobility)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F2027,50:203A43,100:2C5364&text=Mahbub%20Hassan&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Transportation%20Engineering%20x%20AI%20Researcher&descSize=16&descAlignY=58"/>
 
-<img src="https://img.shields.io/badge/MSc-Transportation%20Engineering-8B0000?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chulalongkorn%20University-Thailand-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Transportation%20%2B%20AI-2F80ED?style=for-the-badge"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1100&color=58A6FF&center=true&vCenter=true&width=880&lines=Hi%2C+I'm+Mahbub+Hassan+%F0%9F%91%8B;MSc+Researcher+%40+Chulalongkorn+University;Building+NLP+%2B+XAI+%2B+LLM+for+Smart+Mobility;Turning+Transport+Data+into+Policy+Intelligence)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/MSc-Transportation%20Engineering-7B1E3A?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research%20Lab-Chulalongkorn%20University-0E7490?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Transportation%20AI%20%2B%20NLP-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+### **I design AI-driven research pipelines that translate urban mobility signals into explainable, actionable insights.**
+
+</div>
+
+---
+
+## 🔗 Quick Links
+
+<div align="center">
+
+[![About](https://img.shields.io/badge/About%20Me-1F2937?style=for-the-badge)](#-about-me)
+[![Research](https://img.shields.io/badge/Research%20Focus-1F2937?style=for-the-badge)](#-research-focus)
+[![Pipeline](https://img.shields.io/badge/Research%20Pipeline-1F2937?style=for-the-badge)](#-research-pipeline-visualization)
+[![Outputs](https://img.shields.io/badge/Outputs%20%26%20Preprints-1F2937?style=for-the-badge)](#-featured-outputs--preprints)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-1F2937?style=for-the-badge)](#-skills--tech-stack)
+[![Connect](https://img.shields.io/badge/Connect-1F2937?style=for-the-badge)](#-connect--collaborate)
 
 </div>
 
@@ -12,33 +31,57 @@
 
 ## 🧑‍🔬 About Me
 
-I am a **Master's researcher** in Transportation Engineering at the **Faculty of Engineering, Chulalongkorn University, Thailand**, working at the intersection of **Artificial Intelligence** and **Smart Transportation Systems**.
+I am a **Master's researcher** in Transportation Engineering at the **Faculty of Engineering, Chulalongkorn University, Thailand**, working at the intersection of **AI, NLP, and Smart Transportation Systems**.
 
-My research applies **Natural Language Processing (NLP)**, **Explainable AI (XAI)**, and **Large Language Models (LLMs)** to uncover public sentiment toward urban mobility — with a current focus on **Bangladesh's rapidly evolving multi-modal transport landscape**.
+My current work applies **Natural Language Processing (NLP)**, **Explainable AI (XAI)**, and **Large Language Models (LLMs)** to understand public sentiment toward urban mobility in **Bangladesh's rapidly evolving multi-modal transport ecosystem**.
 
 ```python
 mahbub = {
-    "institution"  : "Chulalongkorn University, Bangkok, Thailand",
-    "degree"       : "MSc in Transportation Engineering",
-    "department"   : "Civil Engineering — Transportation Division",
-    "research"     : ["NLP", "XAI", "LLM", "Sentiment Analysis", "Smart Mobility"],
-    "languages"    : ["Python", "R", "MATLAB", "SQL", "LaTeX"],
-    "currently"    : "Building ML + XAI + LLM pipeline for transport sentiment analysis",
+    "institution": "Chulalongkorn University, Bangkok, Thailand",
+    "degree": "MSc in Transportation Engineering",
+    "research": ["NLP", "XAI", "LLM", "Sentiment Analysis", "Smart Mobility"],
+    "languages": ["Python", "R", "MATLAB", "SQL", "LaTeX"],
+    "currently": "Building an ML + XAI + LLM pipeline for transport sentiment intelligence",
 }
 ```
 
 ---
 
-## 🎯 Research Interests
+## 📌 Quick Stats & Achievements
+
+<div align="center">
+
+| 🎓 Academic Track | 🔬 Research Scope | 📊 Data Footprint | 🧠 Current Focus |
+|---|---|---|---|
+| MSc @ Chulalongkorn University | Transportation Engineering × AI/NLP | 8,000 multilingual transport discourse records | Explainable sentiment modeling + policy insight generation |
+
+</div>
+
+---
+
+## 🎯 Research Focus
 
 | Domain | Topics |
-|--------|--------|
+|---|---|
 | 🚇 **Smart Transportation** | ITS, Urban Mobility, Multi-modal Systems, Developing Countries |
 | 🗣️ **NLP & Text Mining** | Sentiment Analysis, ABSA, Multilingual (Bangla/Banglish/English) |
 | 🔍 **Explainable AI (XAI)** | SHAP, LIME, DiCE Counterfactuals, Feature Importance |
-| 🧠 **Large Language Models** | Open-source LLMs, Research Automation, LLM-in-the-loop |
+| 🧠 **Large Language Models** | Open-source LLMs, LLM-in-the-loop research automation |
 | 📊 **Machine Learning** | Classification, Ensemble Methods, Hyperparameter Tuning (Optuna) |
-| 🌆 **Sustainable Mobility** | Green Transport, EV Adoption, CAV, MaaS |
+| 🌱 **Sustainable Mobility** | Green Transport, EV Adoption, CAV, MaaS |
+
+---
+
+## 🧭 Research Pipeline Visualization
+
+```mermaid
+flowchart LR
+    A[Data Collection\nSocial + Mobility Discourse] --> B[Preprocessing\nBangla/Banglish/English]
+    B --> C[Modeling\nML + NLP Classifiers]
+    C --> D[XAI Layer\nSHAP • LIME • DiCE]
+    D --> E[LLM Insight Engine\nPolicy Narrative Synthesis]
+    E --> F[Decision Support\nTransport Planning Insights]
+```
 
 ---
 
@@ -46,7 +89,7 @@ mahbub = {
 
 ### 🗣️ Public Transport Sentiment Analysis — Bangladesh
 
-> *A multilingual NLP · ML · XAI · LLM research pipeline for emerging-market transport discourse*
+> *A multilingual NLP · ML · XAI · LLM research pipeline for emerging-market transport discourse.*
 
 <table>
 <tr><td><b>Dataset</b></td><td>8,000 synthetic social media records (Facebook · YouTube · Twitter · Instagram · Reddit)</td></tr>
@@ -60,9 +103,19 @@ mahbub = {
 
 ---
 
+## 📚 Featured Outputs & Preprints
+
+- **Manuscript in preparation:** *Multilingual Public Transport Sentiment Intelligence for Bangladesh: An NLP + XAI Framework*
+- **Research artifact:** Structured synthetic corpus for multi-platform transport sentiment benchmarking
+- **Ongoing output:** Explainability dashboard design for stakeholder-facing mobility analytics
+
+> _If you are interested in co-authoring, benchmarking, or extending this pipeline to other cities, let's collaborate._
+
+---
+
 ## 🛠️ Skills & Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -71,7 +124,7 @@ mahbub = {
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🤖 Machine Learning & AI
+### 🤖 AI / ML / NLP
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
@@ -80,21 +133,10 @@ mahbub = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Optuna](https://img.shields.io/badge/Optuna-HPO-6236FF?style=for-the-badge)
-
-### 🔍 XAI & Interpretability
-
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF4B4B?style=for-the-badge)
 ![LIME](https://img.shields.io/badge/LIME-Local%20Explanations-00BFFF?style=for-the-badge)
 ![DiCE](https://img.shields.io/badge/DiCE-Counterfactuals-9B59B6?style=for-the-badge)
-
-### 🗣️ NLP & LLM
-
-![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface)
-![BERT](https://img.shields.io/badge/BERT-NLP-orange?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Open--Source-blueviolet?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-Text%20Processing-009933?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-HPO-6236FF?style=for-the-badge)
 
 ### 🧰 Tools & Platforms
 
@@ -104,43 +146,58 @@ mahbub = {
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahbubchula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubchula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahbubchula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubchula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubchula&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubchula&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahbubchula&theme=tokyonight&no-frame=true&row=1&column=6)
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mahbubchula&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12"/>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-[![University Email](https://img.shields.io/badge/University%20Email-6870376421%40student.chula.ac.th-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6870376421@student.chula.ac.th)
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-mahbub.fkta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahbub.fkta@gmail.com)
-[![Chulalongkorn University](https://img.shields.io/badge/Chulalongkorn%20University-Bangkok%2C%20Thailand-8B0000?style=for-the-badge&logo=academia&logoColor=white)](https://www.eng.chula.ac.th)
+[![University Email](https://img.shields.io/badge/University%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6870376421@student.chula.ac.th)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahbub.fkta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbubchula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?keywords=Mahbub%20Hassan)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/search/publication?q=Mahbub%20Hassan)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=Mahbub+Hassan+Transportation+Engineering)
 
 </div>
+
+### 📣 Open to Collaboration
+
+- AI for Transportation Planning & Policy
+- Multilingual Transport Sentiment / ABSA Research
+- Explainable ML systems for infrastructure and mobility decisions
+
+---
+
+## 🧪 Latest Research Updates
+
+- 🔄 **Phase 2 ongoing:** classification experiments + explainability profiling
+- 🧭 **Current direction:** LLM-assisted policy insight generation from sentiment evidence
+- 🤝 **Opportunity:** open to research collaboration, benchmarking partnerships, and academic networking
 
 ---
 
@@ -148,6 +205,6 @@ mahbub = {
 
 ### 💡 *"Bridging Data Science and Sustainable Transportation — one model at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahbubchula&color=2F80ED&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mahbubchula&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
