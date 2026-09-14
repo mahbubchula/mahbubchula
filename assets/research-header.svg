@@ -1,38 +1,90 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
-  <title id="title">Mahbub Hassan</title>
-  <desc id="description">Transportation engineering researcher working on safer, smarter and more sustainable mobility.</desc>
+  <title id="title">Mahbub Hassan — Transportation Engineering Researcher</title>
+  <desc id="description">Professional research banner highlighting road safety, intelligent mobility, sustainable transport and explainable artificial intelligence.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071A2F"/>
-      <stop offset="0.55" stop-color="#0B3552"/>
-      <stop offset="1" stop-color="#087F8C"/>
+      <stop offset="0" stop-color="#071522"/>
+      <stop offset="0.58" stop-color="#0A2A3E"/>
+      <stop offset="1" stop-color="#0C5661"/>
     </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54D2D8"/>
+      <stop offset="1" stop-color="#78E0B8"/>
+    </linearGradient>
+    <linearGradient id="roadFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A8E9E5" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#A8E9E5" stop-opacity="0.58"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#50D4D1" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#50D4D1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="microGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#DDF7F4" stroke-width="0.7" stroke-opacity="0.035"/>
     </pattern>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#00101D" flood-opacity="0.35"/>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#020B12" flood-opacity="0.34"/>
     </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="22"/>
+    </clipPath>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
-  <circle cx="1080" cy="46" r="150" fill="#32C2C9" opacity="0.10"/>
-  <circle cx="1135" cy="286" r="205" fill="#E6B655" opacity="0.09"/>
-  <g opacity="0.62" stroke="#9DDEE1" fill="none" stroke-width="3">
-    <path d="M 936 225 C 994 159, 1010 103, 1086 58"/>
-    <path d="M 900 266 C 1006 220, 1064 161, 1125 85"/>
-    <path d="M 987 282 C 1027 226, 1108 192, 1180 176"/>
-    <circle cx="938" cy="224" r="7" fill="#E6B655" stroke="none"/>
-    <circle cx="1087" cy="58" r="7" fill="#E6B655" stroke="none"/>
-    <circle cx="901" cy="266" r="7" fill="#E6B655" stroke="none"/>
-    <circle cx="1125" cy="85" r="7" fill="#E6B655" stroke="none"/>
-    <circle cx="988" cy="282" r="7" fill="#E6B655" stroke="none"/>
-    <circle cx="1180" cy="176" r="7" fill="#E6B655" stroke="none"/>
-  </g>
-  <g filter="url(#shadow)" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="72" y="103" fill="#85DADF" font-size="21" font-weight="600" letter-spacing="4">TRANSPORTATION ENGINEERING RESEARCHER</text>
-    <text x="68" y="176" fill="#FFFFFF" font-size="64" font-weight="750">Mahbub Hassan</text>
-    <text x="72" y="224" fill="#D7EAF2" font-size="24" font-weight="400">Road Safety · Intelligent Mobility · Explainable AI · LLMs</text>
-    <text x="72" y="267" fill="#E6B655" font-size="18" font-weight="600">M.Eng. Researcher at Chulalongkorn University · Prospective PhD Applicant</text>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#microGrid)"/>
+    <ellipse cx="1065" cy="150" rx="310" ry="260" fill="url(#glow)"/>
+    <rect width="1200" height="4" fill="url(#accent)"/>
+    <g fill="none" stroke-linecap="round">
+      <path d="M768 358C825 273 826 194 889 131C949 71 1028 64 1091-7" stroke="#D6F5F1" stroke-opacity="0.12" stroke-width="44"/>
+      <path d="M768 358C825 273 826 194 889 131C949 71 1028 64 1091-7" stroke="url(#roadFade)" stroke-width="2"/>
+      <path d="M778 352C834 271 836 199 897 138C955 80 1035 72 1099-2" stroke="#F3C969" stroke-opacity="0.74" stroke-width="2" stroke-dasharray="10 12"/>
+      <path d="M832 245C930 250 1003 218 1052 157C1090 111 1132 94 1219 95" stroke="#9EE8E2" stroke-opacity="0.30" stroke-width="2"/>
+      <path d="M870 295C958 285 1026 267 1085 221C1122 192 1160 183 1226 190" stroke="#9EE8E2" stroke-opacity="0.18" stroke-width="2"/>
+    </g>
+    <g fill="#79DDD7" opacity="0.9">
+      <circle cx="889" cy="131" r="5"/>
+      <circle cx="958" cy="78" r="4"/>
+      <circle cx="1052" cy="157" r="5"/>
+      <circle cx="1085" cy="221" r="4"/>
+      <circle cx="1138" cy="94" r="4"/>
+    </g>
+    <g fill="none" stroke="#79DDD7" stroke-opacity="0.30">
+      <circle cx="889" cy="131" r="12"/>
+      <circle cx="1052" cy="157" r="12"/>
+      <circle cx="1085" cy="221" r="10"/>
+    </g>
+    <g transform="translate(72 54)" filter="url(#softShadow)" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+      <g>
+        <rect width="50" height="50" rx="13" fill="#E9FBF8" fill-opacity="0.11" stroke="#91E3DD" stroke-opacity="0.42"/>
+        <path d="M13 34V16h5l7 10 7-10h5v18h-5V23l-7 10-7-10v11z" fill="#E8FBF8"/>
+      </g>
+      <text x="68" y="20" fill="#91E3DD" font-size="15" font-weight="700" letter-spacing="3.2">TRANSPORTATION ENGINEERING</text>
+      <text x="68" y="43" fill="#C7E2E4" font-size="14" font-weight="500" letter-spacing="2.4">RESEARCH · ANALYTICS · IMPACT</text>
+      <text x="-2" y="125" fill="#FFFFFF" font-size="60" font-weight="760" letter-spacing="-1.2">Mahbub Hassan</text>
+      <rect x="0" y="145" width="72" height="4" rx="2" fill="url(#accent)"/>
+      <text x="0" y="181" fill="#DCECEF" font-size="20" font-weight="450">Road Safety</text>
+      <circle cx="123" cy="175" r="3" fill="#55D2D4"/>
+      <text x="141" y="181" fill="#DCECEF" font-size="20" font-weight="450">Intelligent Mobility</text>
+      <circle cx="330" cy="175" r="3" fill="#55D2D4"/>
+      <text x="348" y="181" fill="#DCECEF" font-size="20" font-weight="450">Sustainable Transport</text>
+      <circle cx="552" cy="175" r="3" fill="#55D2D4"/>
+      <text x="570" y="181" fill="#DCECEF" font-size="20" font-weight="450">Explainable AI</text>
+      <g transform="translate(0 218)">
+        <text x="0" y="0" fill="#F3C969" font-size="15" font-weight="700" letter-spacing="1.3">M.ENG. RESEARCHER</text>
+        <rect x="183" y="-14" width="1" height="18" fill="#88ADB3" opacity="0.65"/>
+        <text x="202" y="0" fill="#BFD7DB" font-size="15" font-weight="500">Chulalongkorn University</text>
+        <rect x="393" y="-14" width="1" height="18" fill="#88ADB3" opacity="0.65"/>
+        <text x="412" y="0" fill="#BFD7DB" font-size="15" font-weight="500">Founder, B'Deshi Research Lab</text>
+      </g>
+    </g>
+    <g transform="translate(948 260)" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+      <text x="0" y="0" fill="#B9DCDD" font-size="11" font-weight="650" letter-spacing="2">DATA</text>
+      <path d="M40-4h25" stroke="#6AD7D3" stroke-width="1.5"/>
+      <path d="M62-7l4 3-4 3" fill="none" stroke="#6AD7D3" stroke-width="1.5"/>
+      <text x="76" y="0" fill="#B9DCDD" font-size="11" font-weight="650" letter-spacing="2">EVIDENCE</text>
+      <path d="M145-4h25" stroke="#6AD7D3" stroke-width="1.5"/>
+      <path d="M167-7l4 3-4 3" fill="none" stroke="#6AD7D3" stroke-width="1.5"/>
+      <text x="181" y="0" fill="#F3C969" font-size="11" font-weight="700" letter-spacing="2">IMPACT</text>
+    </g>
   </g>
 </svg>
