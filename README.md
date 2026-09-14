@@ -22,17 +22,19 @@
 
 `Road Safety` · `Driver Behaviour` · `Intelligent Transportation Systems` · `Sustainable Mobility` · `Explainable AI` · `LLMs for Transportation`
 
+[**Research**](#-current-research) · [**Software**](#-selected-research-software) · [**Publications**](#-publications) · [**Methods**](#-methods-and-research-tools) · [**Leadership**](#-academic-leadership-and-service) · [**Contact**](#-connect)
+
 </div>
 
-## Research profile
+## 🔬 Research profile
 
 I am an **M.Eng. researcher in Transportation Engineering at Chulalongkorn University**, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of **road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation**.
 
 I build reproducible analytical workflows that connect transportation data to decisions: from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. My aim is to produce research that is methodologically rigorous, interpretable, and useful to transportation practitioners and policymakers.
 
-> **Current direction:** preparing for PhD research on human-centred, data-driven transportation safety and intelligent mobility systems.
+> **Research direction:** human-centred, data-driven transportation safety and intelligent mobility systems, with a focus on transparent methods and policy-relevant evidence.
 
-## Current research
+## 📍 Current research
 
 <table>
 <tr>
@@ -42,24 +44,58 @@ I build reproducible analytical workflows that connect transportation data to de
 
 A submission-ready study combining spatiotemporal risk profiling, inferential statistics, comparative machine learning, robustness analysis, and explainable AI across **190,910 crashes from 2012-2024**.
 
-- Five-model comparison with a strictly held-out test set
-- LightGBM test ROC-AUC: **0.849**
-- Temporal generalisation, ablation, imbalance, and seed checks
-- SHAP, permutation importance, partial dependence, and interactions
-- Complete manuscript, reproducible pipeline, and 31 publication figures
+| Evidence base | Modelling | Validation | Explainability |
+|:---:|:---:|:---:|:---:|
+| **190,910** crashes | **5** algorithms | **4** robustness checks | **4** XAI methods |
+| 2012-2024 | ROC-AUC **0.849** | Temporal + sensitivity | SHAP + model-agnostic |
 
 [**Explore the research repository →**](https://github.com/mahbubchula/sa-road-crash-research)
 
 </td>
 <td width="42%" align="center" valign="middle">
   <a href="https://github.com/mahbubchula/sa-road-crash-research">
-    <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/23_roc_pr_all_models.png" width="100%" alt="Model comparison for the South Australia road crash study">
+    <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/05_lga_hotspots.png" width="100%" alt="Local government area crash hotspots in South Australia">
   </a>
 </td>
 </tr>
 </table>
 
-## Selected research software
+## 📊 Research snapshots
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/01_annual_trend.png">
+    <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/01_annual_trend.png" width="100%" alt="Annual crash trend and severity composition">
+  </a>
+  <br><sub><b>Thirteen-year crash trend</b><br>Frequency and severity composition, 2012-2024</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/21_odds_ratio_forest.png">
+    <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/21_odds_ratio_forest.png" width="100%" alt="Adjusted odds ratios for serious and fatal road crashes">
+  </a>
+  <br><sub><b>Adjusted risk factors</b><br>Multivariable odds ratios with 95% confidence intervals</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/23_roc_pr_all_models.png">
+    <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/23_roc_pr_all_models.png" width="100%" alt="ROC and precision-recall comparison across five machine-learning models">
+  </a>
+  <br><sub><b>Comparative model evaluation</b><br>ROC and precision-recall curves across five algorithms</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/09_shap_summary.png">
+    <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/09_shap_summary.png" width="100%" alt="SHAP summary of road crash severity predictors">
+  </a>
+  <br><sub><b>Explainable machine learning</b><br>Global SHAP effects for crash-severity prediction</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Figures are generated by the reproducible workflow in the <a href="https://github.com/mahbubchula/sa-road-crash-research">South Australia Road Crash Severity repository</a>.</sub></p>
+
+## 🧰 Selected research software
 
 <table>
 <tr>
@@ -124,14 +160,26 @@ An open, 18-module research-methodology course spanning question formulation, st
 </tr>
 </table>
 
-## Recent accepted articles
+## 📚 Publications
+
+My work spans transportation safety, travel behaviour, intelligent mobility, sustainable transport, simulation, explainable AI, extended reality, and large language models for transportation. The complete and current record is maintained on [Google Scholar](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en).
+
+<details open>
+<summary><b>Recent accepted articles</b></summary>
+
+<!-- Add newly accepted articles immediately below this comment. -->
 
 1. **Hassan, M.**, Sarkar, P., Islam, M. K., & Rahman, M. M. H. (2026). *Willingness to adopt Mobility as a Service in a pre-deployment context: Evidence from Bangladesh using a dual-method framework*. **Journal of Public Transportation**. Accepted for publication. [DOI](https://doi.org/10.1016/j.jpubtr.2026.100176)
 2. **Hassan, M.**, Turjo, T. D., Islam, M. K., & Rahman, M. M. (2026). *A machine learning and explainable AI framework for long distance travel mode choice: Evidence from Bangladesh*. **Scientific Reports**. Accepted for publication. [DOI](https://doi.org/10.1038/s41598-026-56550-1)
 3. **Hassan, M.**, Paul, A., Parven, A., & Amin, M. B. (2026). *Mobility-as-a-Service for sustainable transportation: A bibliometric and thematic review*. **Journal of Transformative Technologies and Sustainable Development**. Accepted for publication. [DOI](https://doi.org/10.1007/s41314-026-00097-6)
 4. Turjo, T. D., **Hassan, M.**, Islam, M. K., & Haque, M. E. (2026). *Explainable AI in transportation safety and risk assessment: A bibliometric and critical review of emerging trends, applications, open challenges, and future directions*. **Archives of Computational Methods in Engineering**. Accepted for publication.
 
-## Selected published articles
+</details>
+
+<details open>
+<summary><b>Selected published articles</b></summary>
+
+<!-- Add newly selected published articles immediately below this comment. -->
 
 1. **Hassan, M.**, Turjo, T. D., Islam, M. K., & Rahman, M. M. (2026). *The trapped driver phenomenon: Risky driving intention among professional drivers in Bangladesh*. **Transportation Research Part F**, 122, 103789. [DOI](https://doi.org/10.1016/j.trf.2026.103789)
 2. **Hassan, M.**, Choocharukul, K., Islam, M. A., & Basaruddin, K. S. (2026). *Explainable machine learning for binary casualty prediction: Evidence from New South Wales*. **Results in Engineering**, 112401. [DOI](https://doi.org/10.1016/j.rineng.2026.112401)
@@ -141,9 +189,11 @@ An open, 18-module research-methodology course spanning question formulation, st
 6. **Hassan, M.**, Shraban, S. S., Islam, M. A., Basaruddin, K. S., Ijaz, M. F., Kamarrudin, N. S. B., & Takemura, H. (2025). *Integration of extended reality technologies in transportation systems: A bibliometric analysis and review of emerging trends, challenges, and future research*. **Results in Engineering**, 26, 105334. [DOI](https://doi.org/10.1016/j.rineng.2025.105334)
 7. **Hassan, M.**, Ray, S. C., Gupta, A. B., & Hassan, M. M. (2026). *Few-shot adaptive tiny machine learning for edge-based traffic flow prediction*. **IEEE PECCII 2026**. [DOI](https://doi.org/10.1109/PECCII70991.2026.11662000)
 
+</details>
+
 [**View the complete publication record on Google Scholar →**](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en)
 
-## Methods and research tools
+## 🧪 Methods and research tools
 
 | Area | Methods and tools |
 |---|---|
@@ -152,7 +202,7 @@ An open, 18-module research-methodology course spanning question formulation, st
 | **Statistics & behavioural research** | R, SPSS, SmartPLS 4, regression, PLS-SEM, fsQCA |
 | **Spatial & research workflows** | QGIS, LaTeX, VOSviewer, Biblioshiny, reproducible reporting |
 
-## Academic leadership and service
+## 🎓 Academic leadership and service
 
 <table>
 <tr>
@@ -191,7 +241,7 @@ Full Chulalongkorn graduate scholarship, **2nd Place Best Paper at ICSM 2025**, 
 
 I also create research and engineering content on [YouTube](https://www.youtube.com/@dailymahbub), reaching 1,000+ subscribers and 100,000+ views.
 
-## Connect
+## 🤝 Connect
 
 I welcome research conversations and collaboration in road safety, driver behaviour, intelligent transportation systems, sustainable mobility, and interpretable transportation analytics.
 
