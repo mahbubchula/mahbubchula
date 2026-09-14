@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/research-header.svg" width="100%" alt="Mahbub Hassan - Transportation Engineering Researcher">
+  <img src="assets/research-header.svg?v=2" width="100%" alt="Mahbub Hassan - Transportation Engineering Researcher">
 
   <br>
 
