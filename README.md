@@ -17,7 +17,7 @@ I build reproducible analytical workflows that connect transportation data to de
 
 > **Current direction:** preparing for PhD research on human-centred, data-driven transportation safety and intelligent mobility systems.
 
-## Current flagship research
+## Current research
 
 <table>
 <tr>
@@ -113,7 +113,7 @@ An open, 18-module research-methodology course spanning question formulation, st
 
 | Scholarly contribution | Record |
 |---|---:|
-| Journal articles | **21 published** |
+| Journal articles | **21 published + 4 accepted** |
 | Conference papers | **16 published** |
 | Book chapters | **2 published** |
 | Peer-review service | **31 manuscripts across 21 journals** |
@@ -122,7 +122,14 @@ An open, 18-module research-methodology course spanning question formulation, st
 
 Selected distinctions include the **Chulalongkorn University full graduate scholarship**, **Best Paper Award - 2nd Place at ICSM 2025**, **Best International Student at UniMAP**, five Dean's List awards, and second place in UniMAP's faculty-level final-year research competition.
 
-## Selected recent publications
+## Accepted articles
+
+1. **Hassan, M.**, Sarkar, P., Islam, M. K., & Rahman, M. M. H. (2026). *Willingness to adopt Mobility as a Service in a pre-deployment context: Evidence from Bangladesh using a dual-method framework*. **Journal of Public Transportation**. Accepted for publication. [DOI](https://doi.org/10.1016/j.jpubtr.2026.100176)
+2. **Hassan, M.**, Turjo, T. D., Islam, M. K., & Rahman, M. M. (2026). *A machine learning and explainable AI framework for long distance travel mode choice: Evidence from Bangladesh*. **Scientific Reports**. Accepted for publication. [DOI](https://doi.org/10.1038/s41598-026-56550-1)
+3. **Hassan, M.**, Paul, A., Parven, A., & Amin, M. B. (2026). *Mobility-as-a-Service for sustainable transportation: A bibliometric and thematic review*. **Journal of Transformative Technologies and Sustainable Development**. Accepted for publication. [DOI](https://doi.org/10.1007/s41314-026-00097-6)
+4. Turjo, T. D., **Hassan, M.**, Islam, M. K., & Haque, M. E. (2026). *Explainable AI in transportation safety and risk assessment: A bibliometric and critical review of emerging trends, applications, open challenges, and future directions*. **Archives of Computational Methods in Engineering**. Accepted for publication.
+
+## Selected published articles
 
 1. **Hassan, M.**, Turjo, T. D., Islam, M. K., & Rahman, M. M. (2026). *The trapped driver phenomenon: Risky driving intention among professional drivers in Bangladesh*. **Transportation Research Part F**, 122, 103789. [DOI](https://doi.org/10.1016/j.trf.2026.103789)
 2. **Hassan, M.**, Choocharukul, K., Islam, M. A., & Basaruddin, K. S. (2026). *Explainable machine learning for binary casualty prediction: Evidence from New South Wales*. **Results in Engineering**, 112401. [DOI](https://doi.org/10.1016/j.rineng.2026.112401)
