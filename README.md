@@ -9,9 +9,24 @@
   [![Research Lab](https://img.shields.io/badge/B'Deshi-Research_Lab-087F8C?style=flat-square)](https://www.bdeshi-lab.org/)
 </div>
 
+<table>
+<tr>
+<td align="center" width="25%"><strong>25</strong><br><sub>Journal articles<br>21 published · 4 accepted</sub></td>
+<td align="center" width="25%"><strong>16</strong><br><sub>Published<br>conference papers</sub></td>
+<td align="center" width="25%"><strong>31</strong><br><sub>Manuscripts reviewed<br>across 21 journals</sub></td>
+<td align="center" width="25%"><strong>20+</strong><br><sub>Undergraduate<br>researchers mentored</sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+`Road Safety` · `Driver Behaviour` · `Intelligent Transportation Systems` · `Sustainable Mobility` · `Explainable AI` · `LLMs for Transportation`
+
+</div>
+
 ## About me
 
-I am an **M.Eng. researcher in Transportation Engineering at Chulalongkorn University**, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of **road safety, driver behaviour, intelligent transportation systems, sustainable mobility, and explainable machine learning**.
+I am an **M.Eng. researcher in Transportation Engineering at Chulalongkorn University**, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of **road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation**.
 
 I build reproducible analytical workflows that connect transportation data to decisions: from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. I also founded **B'Deshi Research Lab**, where I lead an international team and mentor early-career researchers.
 
@@ -135,7 +150,8 @@ Selected distinctions include the **Chulalongkorn University full graduate schol
 2. **Hassan, M.**, Choocharukul, K., Islam, M. A., & Basaruddin, K. S. (2026). *Explainable machine learning for binary casualty prediction: Evidence from New South Wales*. **Results in Engineering**, 112401. [DOI](https://doi.org/10.1016/j.rineng.2026.112401)
 3. **Hassan, M.**, Turjo, T. D., Rambe, A. H., et al. (2026). *A comprehensive survey of adaptive traffic signal control: Methods, applications, challenges, and future research*. **Archives of Computational Methods in Engineering**. [DOI](https://doi.org/10.1007/s11831-026-10574-y)
 4. **Hassan, M.**, Islam, M. K., Alam, M. S., et al. (2026). *Applications of IoT in intelligent transportation systems: Research landscape, technological innovations, challenges, and future opportunities*. **Computers, Materials & Continua**. [DOI](https://doi.org/10.32604/cmc.2026.085434)
-5. **Hassan, M.**, Ray, S. C., Gupta, A. B., & Hassan, M. M. (2026). *Few-shot adaptive tiny machine learning for edge-based traffic flow prediction*. **IEEE PECCII 2026**. [DOI](https://doi.org/10.1109/PECCII70991.2026.11662000)
+5. **Hassan, M.**, Kabir, M. E., Jusoh, M., Ki An, H., Negnevitsky, M., & Li, C. (2025). *Large language models in transportation: A comprehensive bibliometric analysis of emerging trends, challenges, and future research*. **IEEE Access**, 13, 132547-132598. [DOI](https://doi.org/10.1109/ACCESS.2025.3589319)
+6. **Hassan, M.**, Ray, S. C., Gupta, A. B., & Hassan, M. M. (2026). *Few-shot adaptive tiny machine learning for edge-based traffic flow prediction*. **IEEE PECCII 2026**. [DOI](https://doi.org/10.1109/PECCII70991.2026.11662000)
 
 [**View the complete publication record on Google Scholar →**](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en)
 
