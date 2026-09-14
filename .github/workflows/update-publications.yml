@@ -1,0 +1,41 @@
+name: Update publication highlights
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/accepted_publications.json"
+      - "scripts/update_publications.py"
+      - ".github/workflows/update-publications.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Refresh publications from ORCID
+        run: python scripts/update_publications.py
+
+      - name: Commit an updated profile when needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Publication highlights are already current."
+          else
+            git commit -m "docs: refresh publication highlights"
+            git push
+          fi

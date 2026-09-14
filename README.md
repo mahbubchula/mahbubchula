@@ -165,15 +165,44 @@ An open, 18-module research-methodology course spanning question formulation, st
 
 My work spans transportation safety, travel behaviour, intelligent mobility, sustainable transport, simulation, explainable AI, extended reality, and large language models for transportation. The complete and current record is maintained on [Google Scholar](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en).
 
+### Publication venues
+
+<!-- PUBLICATION-VENUES:START -->
+<p align="center"><b>Published in</b></p>
+<p align="center">
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Results+in+Engineering&color=F26B21&style=flat-square" alt="Published: Results in Engineering"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Archives+of+Computational+Methods+in+Engineering&color=176B45&style=flat-square" alt="Published: Archives of Computational Methods in Engineering"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Discover+Civil+Engineering&color=6F42C1&style=flat-square" alt="Published: Discover Civil Engineering"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Energy+Engineering&color=D35400&style=flat-square" alt="Published: Energy Engineering"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=IEEE+Access&color=00629B&style=flat-square" alt="Published: IEEE Access"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Transportation+Research+Part+F%3A+Traffic+Psychology+and+Behaviour&color=E76F00&style=flat-square" alt="Published: Transportation Research Part F: Traffic Psychology and Behaviour"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Asean+Journal+of+Scientific+and+Technological+Reports&color=087F8C&style=flat-square" alt="Published: Asean Journal of Scientific and Technological Reports"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Computers%2C+Materials+%26+Continua&color=B23A48&style=flat-square" alt="Published: Computers, Materials &amp; Continua"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Energy+Conversion+and+Management%3A+X&color=009B77&style=flat-square" alt="Published: Energy Conversion and Management: X"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Frontiers+in+Future+Transportation&color=E84A5F&style=flat-square" alt="Published: Frontiers in Future Transportation"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Frontiers+in+Sustainable+Cities&color=E84A5F&style=flat-square" alt="Published: Frontiers in Sustainable Cities"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Future+Transportation&color=2A9D8F&style=flat-square" alt="Published: Future Transportation"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=International+Journal+of+Integrated+Engineering&color=087F8C&style=flat-square" alt="Published: International Journal of Integrated Engineering"></a>
+</p>
+<p align="center"><b>Recently accepted in</b></p>
+<p align="center">
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Journal+of+Public+Transportation&color=005A8D&style=flat-square" alt="Accepted: Journal of Public Transportation"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Scientific+Reports&color=24292F&style=flat-square" alt="Accepted: Scientific Reports"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Journal+of+Transformative+Technologies+and+Sustainable+Development&color=8A4FFF&style=flat-square" alt="Accepted: Journal of Transformative Technologies and Sustainable Development"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Archives+of+Computational+Methods+in+Engineering&color=176B45&style=flat-square" alt="Accepted: Archives of Computational Methods in Engineering"></a>
+</p>
+<p align="center"><sub>Published venues refresh weekly from <a href="https://orcid.org/0009-0006-1956-8159">ORCID</a>; accepted venues are generated from the repository's structured publication feed.</sub></p>
+<!-- PUBLICATION-VENUES:END -->
+
 <details open>
 <summary><b>Recent accepted articles</b></summary>
 
-<!-- Add newly accepted articles immediately below this comment. -->
-
+<!-- ACCEPTED-PUBLICATIONS:START -->
 1. **Hassan, M.**, Sarkar, P., Islam, M. K., & Rahman, M. M. H. (2026). *Willingness to adopt Mobility as a Service in a pre-deployment context: Evidence from Bangladesh using a dual-method framework*. **Journal of Public Transportation**. Accepted for publication. [DOI](https://doi.org/10.1016/j.jpubtr.2026.100176)
 2. **Hassan, M.**, Turjo, T. D., Islam, M. K., & Rahman, M. M. (2026). *A machine learning and explainable AI framework for long distance travel mode choice: Evidence from Bangladesh*. **Scientific Reports**. Accepted for publication. [DOI](https://doi.org/10.1038/s41598-026-56550-1)
 3. **Hassan, M.**, Paul, A., Parven, A., & Amin, M. B. (2026). *Mobility-as-a-Service for sustainable transportation: A bibliometric and thematic review*. **Journal of Transformative Technologies and Sustainable Development**. Accepted for publication. [DOI](https://doi.org/10.1007/s41314-026-00097-6)
 4. Turjo, T. D., **Hassan, M.**, Islam, M. K., & Haque, M. E. (2026). *Explainable AI in transportation safety and risk assessment: A bibliometric and critical review of emerging trends, applications, open challenges, and future directions*. **Archives of Computational Methods in Engineering**. Accepted for publication.
+<!-- ACCEPTED-PUBLICATIONS:END -->
 
 </details>
 

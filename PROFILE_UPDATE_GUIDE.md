@@ -1,22 +1,22 @@
 # Profile update guide
 
-The public profile is rendered from `README.md`. Use the patterns below to keep it consistent and easy to maintain.
+The public profile is rendered from `README.md`. Publication highlights are automatically refreshed every Monday from the public ORCID record and the accepted-publication feed.
 
 ## Add an accepted article
 
-Find this marker in `README.md`:
+Open `data/accepted_publications.json` and add one object:
 
-```html
-<!-- Add newly accepted articles immediately below this comment. -->
+```json
+{
+  "authors": "**Hassan, M.**, Coauthor, A., & Coauthor, B.",
+  "year": 2026,
+  "title": "Article title",
+  "journal": "Journal Name",
+  "doi": "10.xxxx/example"
+}
 ```
 
-Paste one numbered Markdown citation directly below it:
-
-```markdown
-1. **Hassan, M.**, Coauthor, A., & Coauthor, B. (YEAR). *Article title*. **Journal Name**. Accepted for publication. [DOI](https://doi.org/DOI-HERE)
-```
-
-Renumber the remaining items. Do not add a total publication count to the profile; it becomes outdated quickly.
+Commit the data file. GitHub Actions will validate it, regenerate the accepted-paper list, update the accepted-venue badges, and commit the refreshed README. Leave `doi` empty until one is assigned.
 
 ## Add a published article
 
@@ -33,6 +33,8 @@ Use:
 ```
 
 Keep only selected work on the profile and use Google Scholar for the full record.
+
+Published venue badges come from ORCID automatically. Add a new published work to the public ORCID record; the Monday workflow will include its journal. Use the **Update publication highlights** workflow's `Run workflow` button for an immediate refresh.
 
 ## Add a research figure
 
