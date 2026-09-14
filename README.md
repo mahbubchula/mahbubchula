@@ -7,6 +7,7 @@
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1956--8159-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1956-8159)
   [![IEEE](https://img.shields.io/badge/IEEE-Graduate_Student_Member-00629B?style=flat-square&logo=ieee&logoColor=white)](mailto:mahbub.hassan@ieee.org)
   [![Research Lab](https://img.shields.io/badge/B'Deshi-Research_Lab-087F8C?style=flat-square)](https://www.bdeshi-lab.org/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-B'Deshi_Research_Lab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bdeshi-lab/)
 </div>
 
 <table>
@@ -210,7 +211,7 @@ My work spans transportation safety, travel behaviour, intelligent mobility, sus
 
 ### Research leadership
 
-Founded and lead **B'Deshi Research Lab**, an international transportation research group. Mentored **20+ undergraduate researchers** in research design, analysis, and scholarly publication.
+Founded and lead [**B'Deshi Research Lab**](https://www.linkedin.com/company/bdeshi-lab/), an international transportation research group. Mentored **20+ undergraduate researchers** in research design, analysis, and scholarly publication.
 
 </td>
 <td width="50%" valign="top">
