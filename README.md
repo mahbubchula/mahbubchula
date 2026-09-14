@@ -151,7 +151,8 @@ Selected distinctions include the **Chulalongkorn University full graduate schol
 3. **Hassan, M.**, Turjo, T. D., Rambe, A. H., et al. (2026). *A comprehensive survey of adaptive traffic signal control: Methods, applications, challenges, and future research*. **Archives of Computational Methods in Engineering**. [DOI](https://doi.org/10.1007/s11831-026-10574-y)
 4. **Hassan, M.**, Islam, M. K., Alam, M. S., et al. (2026). *Applications of IoT in intelligent transportation systems: Research landscape, technological innovations, challenges, and future opportunities*. **Computers, Materials & Continua**. [DOI](https://doi.org/10.32604/cmc.2026.085434)
 5. **Hassan, M.**, Kabir, M. E., Jusoh, M., Ki An, H., Negnevitsky, M., & Li, C. (2025). *Large language models in transportation: A comprehensive bibliometric analysis of emerging trends, challenges, and future research*. **IEEE Access**, 13, 132547-132598. [DOI](https://doi.org/10.1109/ACCESS.2025.3589319)
-6. **Hassan, M.**, Ray, S. C., Gupta, A. B., & Hassan, M. M. (2026). *Few-shot adaptive tiny machine learning for edge-based traffic flow prediction*. **IEEE PECCII 2026**. [DOI](https://doi.org/10.1109/PECCII70991.2026.11662000)
+6. **Hassan, M.**, Shraban, S. S., Islam, M. A., Basaruddin, K. S., Ijaz, M. F., Kamarrudin, N. S. B., & Takemura, H. (2025). *Integration of extended reality technologies in transportation systems: A bibliometric analysis and review of emerging trends, challenges, and future research*. **Results in Engineering**, 26, 105334. [DOI](https://doi.org/10.1016/j.rineng.2025.105334)
+7. **Hassan, M.**, Ray, S. C., Gupta, A. B., & Hassan, M. M. (2026). *Few-shot adaptive tiny machine learning for edge-based traffic flow prediction*. **IEEE PECCII 2026**. [DOI](https://doi.org/10.1109/PECCII70991.2026.11662000)
 
 [**View the complete publication record on Google Scholar →**](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en)
 
