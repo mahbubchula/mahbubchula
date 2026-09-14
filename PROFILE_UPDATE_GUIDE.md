@@ -2,6 +2,16 @@
 
 The public profile is rendered from `README.md`. Publication highlights are automatically refreshed every Monday from the public ORCID record and the accepted-publication feed.
 
+## Replace the profile portrait
+
+Replace `assets/mahbub-hassan-professional.png` with a new PNG using the same filename. A portrait-oriented image works best. The README controls its displayed size, so no other file needs to be edited.
+
+This image is public because it is stored in the profile repository. The CV remains private and should not be added to this repository.
+
+## Add or remove a skill logo
+
+In the **Methods and research tools** section of `README.md`, copy one existing logo line and change its image URL, `alt`, and `title`. Use an official or stable icon source and include only tools you actively use. Keep the main logo row to roughly 8–12 items; add specialised transportation or analysis software to the compact badge row below it.
+
 ## Add an accepted article
 
 Open `data/accepted_publications.json` and add one object:

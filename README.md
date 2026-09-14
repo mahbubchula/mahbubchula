@@ -29,11 +29,20 @@
 
 ## 🔬 Research profile
 
-I am an **M.Eng. researcher in Transportation Engineering at Chulalongkorn University**, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of **road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation**.
-
-I build reproducible analytical workflows that connect transportation data to decisions: from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. My aim is to produce research that is methodologically rigorous, interpretable, and useful to transportation practitioners and policymakers.
-
-> **Research direction:** human-centred, data-driven transportation safety and intelligent mobility systems, with a focus on transparent methods and policy-relevant evidence.
+<table>
+<tr>
+<td width="28%" align="center" valign="top">
+  <img src="assets/mahbub-hassan-professional.png" width="230" alt="Professional portrait of Mahbub Hassan">
+  <br><sub><b>Mahbub Hassan</b><br>M.Eng. Researcher · IEEE Graduate Student Member</sub>
+</td>
+<td width="72%" valign="top">
+  <h3>Transportation data for safer and smarter mobility</h3>
+  <p>I am an <b>M.Eng. researcher in Transportation Engineering at Chulalongkorn University</b>, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of <b>road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation</b>.</p>
+  <p>I build reproducible analytical workflows that connect transportation data to decisions—from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. My aim is to produce research that is methodologically rigorous, interpretable, and useful to transportation practitioners and policymakers.</p>
+  <p><b>Research direction:</b> human-centred, data-driven transportation safety and intelligent mobility systems, with a focus on transparent methods and policy-relevant evidence.</p>
+</td>
+</tr>
+</table>
 
 ## 📍 Current research
 
@@ -225,9 +234,44 @@ My work spans transportation safety, travel behaviour, intelligent mobility, sus
 
 ## 🧪 Methods and research tools
 
+<p align="center"><b>Programming · machine learning · research computing</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="48" height="48" alt="R" title="R">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" title="Jupyter">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" title="LaTeX">
+</p>
+
+<p align="center"><b>Transportation modelling · spatial and statistical analysis</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SUMO-Traffic_Simulation-2E8B57?style=flat-square" alt="SUMO">
+  <img src="https://img.shields.io/badge/VISSIM-Microsimulation-1565C0?style=flat-square" alt="VISSIM">
+  <img src="https://img.shields.io/badge/MATSim-Agent--Based_Mobility-6A1B9A?style=flat-square" alt="MATSim">
+  <img src="https://img.shields.io/badge/CARLA-Autonomous_Driving-00A6A6?style=flat-square" alt="CARLA">
+  <img src="https://img.shields.io/badge/SIDRA-Intersection_Analysis-E67E22?style=flat-square" alt="SIDRA">
+  <img src="https://img.shields.io/badge/QGIS-Spatial_Analysis-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS">
+  <img src="https://img.shields.io/badge/SmartPLS_4-PLS--SEM-C62828?style=flat-square" alt="SmartPLS 4">
+  <img src="https://img.shields.io/badge/SPSS-Statistical_Analysis-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="SPSS">
+</p>
+
 | Area | Methods and tools |
 |---|---|
-| **Machine learning & XAI** | Python, scikit-learn, PyTorch, XGBoost, LightGBM, SHAP, LIME |
+| **Machine learning & XAI** | Python, scikit-learn, PyTorch, XGBoost, LightGBM, SHAP, LIME, model interpretation |
 | **Transportation modelling** | SUMO, VISSIM, MATSim, CARLA, SIDRA |
 | **Statistics & behavioural research** | R, SPSS, SmartPLS 4, regression, PLS-SEM, fsQCA |
 | **Spatial & research workflows** | QGIS, LaTeX, VOSviewer, Biblioshiny, reproducible reporting |
