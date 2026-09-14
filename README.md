@@ -11,10 +11,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>25</strong><br><sub>Journal articles<br>21 published · 4 accepted</sub></td>
-<td align="center" width="25%"><strong>16</strong><br><sub>Published<br>conference papers</sub></td>
-<td align="center" width="25%"><strong>31</strong><br><sub>Manuscripts reviewed<br>across 21 journals</sub></td>
-<td align="center" width="25%"><strong>20+</strong><br><sub>Undergraduate<br>researchers mentored</sub></td>
+<td align="center" width="25%"><strong>M.Eng.</strong><br><sub>Transportation Engineering<br>Chulalongkorn University</sub></td>
+<td align="center" width="25%"><strong>Full Scholarship</strong><br><sub>ASEAN and Non-ASEAN<br>Countries Scholarship</sub></td>
+<td align="center" width="25%"><strong>IEEE</strong><br><sub>Graduate Student<br>Member</sub></td>
+<td align="center" width="25%"><strong>Research Lead</strong><br><sub>Founder, B'Deshi<br>Research Lab</sub></td>
 </tr>
 </table>
 
@@ -24,11 +24,11 @@
 
 </div>
 
-## About me
+## Research profile
 
 I am an **M.Eng. researcher in Transportation Engineering at Chulalongkorn University**, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of **road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation**.
 
-I build reproducible analytical workflows that connect transportation data to decisions: from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. I also founded **B'Deshi Research Lab**, where I lead an international team and mentor early-career researchers.
+I build reproducible analytical workflows that connect transportation data to decisions: from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. My aim is to produce research that is methodologically rigorous, interpretable, and useful to transportation practitioners and policymakers.
 
 > **Current direction:** preparing for PhD research on human-centred, data-driven transportation safety and intelligent mobility systems.
 
@@ -59,7 +59,7 @@ A submission-ready study combining spatiotemporal risk profiling, inferential st
 </tr>
 </table>
 
-## Research portfolio
+## Selected research software
 
 <table>
 <tr>
@@ -124,20 +124,7 @@ An open, 18-module research-methodology course spanning question formulation, st
 </tr>
 </table>
 
-## Research record
-
-| Scholarly contribution | Record |
-|---|---:|
-| Journal articles | **21 published + 4 accepted** |
-| Conference papers | **16 published** |
-| Book chapters | **2 published** |
-| Peer-review service | **31 manuscripts across 21 journals** |
-| Research mentorship | **20+ undergraduate researchers** |
-| Research leadership | Founder and Team Lead, **B'Deshi Research Lab** |
-
-Selected distinctions include the **Chulalongkorn University full graduate scholarship**, **Best Paper Award - 2nd Place at ICSM 2025**, **Best International Student at UniMAP**, five Dean's List awards, and second place in UniMAP's faculty-level final-year research competition.
-
-## Accepted articles
+## Recent accepted articles
 
 1. **Hassan, M.**, Sarkar, P., Islam, M. K., & Rahman, M. M. H. (2026). *Willingness to adopt Mobility as a Service in a pre-deployment context: Evidence from Bangladesh using a dual-method framework*. **Journal of Public Transportation**. Accepted for publication. [DOI](https://doi.org/10.1016/j.jpubtr.2026.100176)
 2. **Hassan, M.**, Turjo, T. D., Islam, M. K., & Rahman, M. M. (2026). *A machine learning and explainable AI framework for long distance travel mode choice: Evidence from Bangladesh*. **Scientific Reports**. Accepted for publication. [DOI](https://doi.org/10.1038/s41598-026-56550-1)
@@ -165,12 +152,44 @@ Selected distinctions include the **Chulalongkorn University full graduate schol
 | **Statistics & behavioural research** | R, SPSS, SmartPLS 4, regression, PLS-SEM, fsQCA |
 | **Spatial & research workflows** | QGIS, LaTeX, VOSviewer, Biblioshiny, reproducible reporting |
 
-## Open science, teaching, and service
+## Academic leadership and service
 
-- Lead a distributed transportation-research team and have mentored **20+ undergraduate researchers** toward peer-reviewed outputs.
-- Create free research-methods, statistics, machine-learning, bibliometric, and transportation learning resources.
-- Serve as an invited reviewer for journals including *Journal of Cleaner Production*, *Scientific Reports*, *Engineering Applications of Artificial Intelligence*, and *Transportation Research Interdisciplinary Perspectives*.
-- Produce educational research and engineering content through [YouTube](https://www.youtube.com/@dailymahbub), reaching 1,000+ subscribers and 100,000+ views.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Research leadership
+
+Founded and lead **B'Deshi Research Lab**, an international transportation research group. Mentored **20+ undergraduate researchers** in research design, analysis, and scholarly publication.
+
+</td>
+<td width="50%" valign="top">
+
+### Scholarly service
+
+Invited reviewer for **31 manuscripts across 21 journals**, including *Journal of Cleaner Production*, *Scientific Reports*, and *Engineering Applications of Artificial Intelligence*.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Open education
+
+Create free learning resources in research methods, statistics, machine learning, bibliometric analysis, and intelligent transportation systems.
+
+</td>
+<td width="50%" valign="top">
+
+### Recognition
+
+Full Chulalongkorn graduate scholarship, **2nd Place Best Paper at ICSM 2025**, Best International Student at UniMAP, and five Dean's List awards.
+
+</td>
+</tr>
+</table>
+
+I also create research and engineering content on [YouTube](https://www.youtube.com/@dailymahbub), reaching 1,000+ subscribers and 100,000+ views.
 
 ## Connect
 
