@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/research-header-v2.svg" width="100%" alt="Mahbub Hassan - Transportation Engineering Researcher">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Mahbub Hassan - Transportation Engineering Researcher">
+</picture>
 
   <br>
 
@@ -8,6 +12,13 @@
   [![IEEE](https://img.shields.io/badge/IEEE-Graduate_Student_Member-00629B?style=flat-square&logo=ieee&logoColor=white)](mailto:mahbub.hassan@ieee.org)
   [![Research Lab](https://img.shields.io/badge/B'Deshi-Research_Lab-087F8C?style=flat-square)](https://www.bdeshi-lab.org/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-B'Deshi_Research_Lab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bdeshi-lab/)
+  [![YouTube](https://img.shields.io/badge/YouTube-dailymahbub-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@dailymahbub)
+  <br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/impact-light.svg">
+  <img src="assets/impact-light.svg" width="100%" alt="Research impact at a glance: 190,910 road crashes analysed, peer-reviewed journal venues, accepted articles, 31 manuscripts reviewed for 21 journals, 20+ researchers mentored, 100K+ YouTube views">
+</picture>
 </div>
 
 <table>
@@ -23,7 +34,7 @@
 
 `Road Safety` · `Driver Behaviour` · `Intelligent Transportation Systems` · `Sustainable Mobility` · `Explainable AI` · `LLMs for Transportation`
 
-[**Research**](#-current-research) · [**Software**](#-selected-research-software) · [**Publications**](#-publications) · [**Methods**](#-methods-and-research-tools) · [**Leadership**](#-academic-leadership-and-service) · [**Contact**](#-connect)
+[**Research**](#-current-research) · [**Map**](#-research-map) · [**Software**](#-selected-research-software) · [**Publications**](#-publications) · [**Methods**](#-methods-and-research-tools) · [**Leadership**](#-academic-leadership-and-service) · [**Contact**](#-connect)
 
 </div>
 
@@ -40,9 +51,25 @@
   <p>I am an <b>M.Eng. researcher in Transportation Engineering at Chulalongkorn University</b>, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of <b>road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation</b>.</p>
   <p>I build reproducible analytical workflows that connect transportation data to decisions—from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. My aim is to produce research that is methodologically rigorous, interpretable, and useful to transportation practitioners and policymakers.</p>
   <p><b>Research direction:</b> human-centred, data-driven transportation safety and intelligent mobility systems, with a focus on transparent methods and policy-relevant evidence.</p>
+  <table>
+    <tr><td>🔭</td><td><b>Now:</b> explainable crash-severity modelling with 190,910 South Australian crash records</td></tr>
+    <tr><td>🤝</td><td><b>Open to:</b> collaboration on road safety, driver behaviour, ITS and interpretable transportation analytics</td></tr>
+    <tr><td>💬</td><td><b>Ask me about:</b> SHAP and XAI for transport data, SUMO simulation, PLS-SEM, bibliometric reviews</td></tr>
+    <tr><td>📫</td><td><b>Reach me:</b> <a href="mailto:mahbub.hassan@ieee.org">mahbub.hassan@ieee.org</a></td></tr>
+  </table>
 </td>
 </tr>
 </table>
+
+## 🧭 Research map
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/research-map-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/research-map-light.svg">
+  <img src="assets/research-map-light.svg" width="100%" alt="Research map linking research questions to methods and outcomes">
+</picture>
+</p>
 
 ## 📍 Current research
 
@@ -328,5 +355,13 @@ I welcome research conversations and collaboration in road safety, driver behavi
 [![ORCID](https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1956-8159)
 
 <sub>Bangkok, Thailand · Transportation Engineering, Chulalongkorn University</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Safer roads, smarter mobility, open science">
+</picture>
 
 </div>

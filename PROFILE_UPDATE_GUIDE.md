@@ -2,9 +2,24 @@
 
 The public profile is rendered from `README.md`. Publication highlights are automatically refreshed every Monday from the public ORCID record and the accepted-publication feed.
 
+## Animated artwork
+
+The hero banner, impact cards, research map and footer are SVG files in `assets/`, each with a `-dark` and `-light` variant. GitHub shows the one that matches the reader's theme.
+
+Do not edit these SVG files by hand. Change the text, colours or metrics in `scripts/build_profile_assets.py`, then run:
+
+```bash
+python scripts/build_profile_assets.py
+```
+
+- **Focus areas** that rotate in the banner: `FOCUS_AREAS`.
+- **Impact cards:** the `metrics` list in `build_impact`. The journal-venue and accepted-article counts are read from `README.md` and `data/accepted_publications.json`, and the weekly workflow updates them for you.
+- **Research map boxes and connections:** `columns` and `links` in `build_research_map`.
+- **Colours:** `THEMES`.
+
 ## Replace the profile portrait
 
-Replace `assets/mahbub-hassan-professional.png` with a new PNG using the same filename. A portrait-oriented image works best. The README controls its displayed size, so no other file needs to be edited.
+Replace `assets/mahbub-hassan-professional.png` with a new PNG using the same filename. A portrait-oriented image works best. Keep it around 700 px wide, because it is shown at 230 px and larger files slow the page. The README controls its displayed size, so no other file needs to be edited.
 
 This image is public because it is stored in the profile repository. The CV remains private and should not be added to this repository.
 

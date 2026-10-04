@@ -8,6 +8,7 @@ on:
     paths:
       - "data/accepted_publications.json"
       - "scripts/update_publications.py"
+      - "scripts/build_profile_assets.py"
       - ".github/workflows/update-publications.yml"
 
 permissions:
@@ -28,11 +29,14 @@ jobs:
       - name: Refresh publications from ORCID
         run: python scripts/update_publications.py
 
+      - name: Rebuild animated profile artwork
+        run: python scripts/build_profile_assets.py
+
       - name: Commit an updated profile when needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/*.svg
           if git diff --cached --quiet; then
             echo "Publication highlights are already current."
           else

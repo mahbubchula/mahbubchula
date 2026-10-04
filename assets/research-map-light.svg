@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Research map</title>
+  <desc id="desc">How research questions in road safety, driver behaviour, travel behaviour, intelligent transportation and sustainable mobility connect to methods (explainable ML, statistics and PLS-SEM, traffic simulation, edge AI, LLMs) and to outcomes (policy evidence, open software, open education).</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7FBFC"/>
+      <stop offset="0.6" stop-color="#EAF5F6"/>
+      <stop offset="1" stop-color="#D4EEEC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0A8E97"/>
+      <stop offset="1" stop-color="#1BA37A"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#0B3B4A" stroke-width="0.7" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="430" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <rect width="1200" height="430" fill="url(#bg)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+    <rect width="1200" height="4" fill="url(#accent)"/>
+  <path d="M330 108C400.0 108 400.0 108 470 108" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.0s" repeatCount="indefinite"/></path>
+  <path d="M330 108C400.0 108 400.0 176 470 176" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.4s" repeatCount="indefinite"/></path>
+  <path d="M330 176C400.0 176 400.0 176 470 176" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" repeatCount="indefinite"/></path>
+  <path d="M330 244C400.0 244 400.0 108 470 108" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M330 244C400.0 244 400.0 176 470 176" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.0s" repeatCount="indefinite"/></path>
+  <path d="M330 312C400.0 312 400.0 244 470 244" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.4s" repeatCount="indefinite"/></path>
+  <path d="M330 312C400.0 312 400.0 312 470 312" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" repeatCount="indefinite"/></path>
+  <path d="M330 312C400.0 312 400.0 380 470 380" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M330 380C400.0 380 400.0 244 470 244" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.0s" repeatCount="indefinite"/></path>
+  <path d="M330 380C400.0 380 400.0 380 470 380" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.4s" repeatCount="indefinite"/></path>
+  <path d="M730 108C800.0 108 800.0 108 870 108" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" repeatCount="indefinite"/></path>
+  <path d="M730 176C800.0 176 800.0 108 870 108" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M730 244C800.0 244 800.0 244 870 244" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.0s" repeatCount="indefinite"/></path>
+  <path d="M730 312C800.0 312 800.0 244 870 244" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.4s" repeatCount="indefinite"/></path>
+  <path d="M730 380C800.0 380 800.0 380 870 380" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" repeatCount="indefinite"/></path>
+  <path d="M730 108C800.0 108 800.0 380 870 380" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M730 380C800.0 380 800.0 108 870 108" fill="none" stroke="#0A8E97" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.0s" repeatCount="indefinite"/></path>
+  <text x="70" y="58" font-size="13" font-weight="800" letter-spacing="2.5" fill="#0A8E97">QUESTIONS</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+    <rect x="70" y="84" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="70" y="96" width="4" height="24" rx="2" fill="#0A8E97"/>
+    <text x="90" y="114" font-size="15" font-weight="600" fill="#0B2233">Road safety &amp; crash severity</text>
+    <circle cx="330" cy="108" r="3.5" fill="#0A8E97" opacity="1"/>
+    <circle cx="70" cy="108" r="3.5" fill="#0A8E97" opacity="0"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.08s" fill="freeze"/>
+    <rect x="70" y="152" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="70" y="164" width="4" height="24" rx="2" fill="#0A8E97"/>
+    <text x="90" y="182" font-size="15" font-weight="600" fill="#0B2233">Driver behaviour &amp; psychology</text>
+    <circle cx="330" cy="176" r="3.5" fill="#0A8E97" opacity="1"/>
+    <circle cx="70" cy="176" r="3.5" fill="#0A8E97" opacity="0"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.16s" fill="freeze"/>
+    <rect x="70" y="220" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="70" y="232" width="4" height="24" rx="2" fill="#0A8E97"/>
+    <text x="90" y="250" font-size="15" font-weight="600" fill="#0B2233">Travel behaviour &amp; MaaS</text>
+    <circle cx="330" cy="244" r="3.5" fill="#0A8E97" opacity="1"/>
+    <circle cx="70" cy="244" r="3.5" fill="#0A8E97" opacity="0"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
+    <rect x="70" y="288" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="70" y="300" width="4" height="24" rx="2" fill="#0A8E97"/>
+    <text x="90" y="318" font-size="15" font-weight="600" fill="#0B2233">Intelligent transportation</text>
+    <circle cx="330" cy="312" r="3.5" fill="#0A8E97" opacity="1"/>
+    <circle cx="70" cy="312" r="3.5" fill="#0A8E97" opacity="0"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.32s" fill="freeze"/>
+    <rect x="70" y="356" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="70" y="368" width="4" height="24" rx="2" fill="#0A8E97"/>
+    <text x="90" y="386" font-size="15" font-weight="600" fill="#0B2233">Sustainable mobility</text>
+    <circle cx="330" cy="380" r="3.5" fill="#0A8E97" opacity="1"/>
+    <circle cx="70" cy="380" r="3.5" fill="#0A8E97" opacity="0"/>
+  </g>
+  <text x="470" y="58" font-size="13" font-weight="800" letter-spacing="2.5" fill="#1BA37A">METHODS</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.35s" fill="freeze"/>
+    <rect x="470" y="84" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="470" y="96" width="4" height="24" rx="2" fill="#1BA37A"/>
+    <text x="490" y="114" font-size="15" font-weight="600" fill="#0B2233">Explainable ML (SHAP, LIME)</text>
+    <circle cx="730" cy="108" r="3.5" fill="#1BA37A" opacity="1"/>
+    <circle cx="470" cy="108" r="3.5" fill="#1BA37A" opacity="1"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.43s" fill="freeze"/>
+    <rect x="470" y="152" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="470" y="164" width="4" height="24" rx="2" fill="#1BA37A"/>
+    <text x="490" y="182" font-size="15" font-weight="600" fill="#0B2233">Statistics &amp; PLS-SEM</text>
+    <circle cx="730" cy="176" r="3.5" fill="#1BA37A" opacity="1"/>
+    <circle cx="470" cy="176" r="3.5" fill="#1BA37A" opacity="1"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.51s" fill="freeze"/>
+    <rect x="470" y="220" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="470" y="232" width="4" height="24" rx="2" fill="#1BA37A"/>
+    <text x="490" y="250" font-size="15" font-weight="600" fill="#0B2233">Traffic simulation (SUMO)</text>
+    <circle cx="730" cy="244" r="3.5" fill="#1BA37A" opacity="1"/>
+    <circle cx="470" cy="244" r="3.5" fill="#1BA37A" opacity="1"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.59s" fill="freeze"/>
+    <rect x="470" y="288" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="470" y="300" width="4" height="24" rx="2" fill="#1BA37A"/>
+    <text x="490" y="318" font-size="15" font-weight="600" fill="#0B2233">Edge AI &amp; TinyML</text>
+    <circle cx="730" cy="312" r="3.5" fill="#1BA37A" opacity="1"/>
+    <circle cx="470" cy="312" r="3.5" fill="#1BA37A" opacity="1"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.67s" fill="freeze"/>
+    <rect x="470" y="356" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="470" y="368" width="4" height="24" rx="2" fill="#1BA37A"/>
+    <text x="490" y="386" font-size="15" font-weight="600" fill="#0B2233">LLMs &amp; bibliometrics</text>
+    <circle cx="730" cy="380" r="3.5" fill="#1BA37A" opacity="1"/>
+    <circle cx="470" cy="380" r="3.5" fill="#1BA37A" opacity="1"/>
+  </g>
+  <text x="870" y="58" font-size="13" font-weight="800" letter-spacing="2.5" fill="#C98A0B">OUTCOMES</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/>
+    <rect x="870" y="84" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="870" y="96" width="4" height="24" rx="2" fill="#C98A0B"/>
+    <text x="890" y="114" font-size="15" font-weight="600" fill="#0B2233">Policy-relevant evidence</text>
+    <circle cx="1130" cy="108" r="3.5" fill="#C98A0B" opacity="0"/>
+    <circle cx="870" cy="108" r="3.5" fill="#C98A0B" opacity="1"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.78s" fill="freeze"/>
+    <rect x="870" y="220" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="870" y="232" width="4" height="24" rx="2" fill="#C98A0B"/>
+    <text x="890" y="250" font-size="15" font-weight="600" fill="#0B2233">Open research software</text>
+    <circle cx="1130" cy="244" r="3.5" fill="#C98A0B" opacity="0"/>
+    <circle cx="870" cy="244" r="3.5" fill="#C98A0B" opacity="1"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.86s" fill="freeze"/>
+    <rect x="870" y="356" width="260" height="48" rx="12" fill="#FFFFFF" stroke="#BFDDE0"/>
+    <rect x="870" y="368" width="4" height="24" rx="2" fill="#C98A0B"/>
+    <text x="890" y="386" font-size="15" font-weight="600" fill="#0B2233">Open education</text>
+    <circle cx="1130" cy="380" r="3.5" fill="#C98A0B" opacity="0"/>
+    <circle cx="870" cy="380" r="3.5" fill="#C98A0B" opacity="1"/>
+  </g>
+  </g>
+</svg>
