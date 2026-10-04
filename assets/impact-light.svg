@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
   <title id="title">Research impact at a glance</title>
-  <desc id="desc">190,910 road crashes analysed (South Australia, 2012–2024); 15 journal venues (peer-reviewed publications); 4 articles accepted (forthcoming publications); 31 manuscripts reviewed (for 21 journals); 20+ researchers mentored (B&#x27;Deshi Research Lab); 100K+ YouTube views (open research education)</desc>
+  <desc id="desc">190,910 road crashes analysed (South Australia, 2012–2024); 16 journal venues (peer-reviewed publications); 4 articles accepted (forthcoming publications); 31 manuscripts reviewed (for 21 journals); 20+ researchers mentored (B&#x27;Deshi Research Lab); 100K+ YouTube views (open research education)</desc>
 <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
   <g transform="translate(7 14)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.00s" fill="freeze"/>
@@ -16,7 +16,7 @@
     <animateTransform attributeName="transform" type="translate" from="207 30" to="207 14" dur="0.6s" begin="0.15s" fill="freeze"/>
     <rect width="186" height="122" rx="16" fill="#FFFFFF" stroke="#BFDDE0"/>
     <rect x="20" y="0" width="40" height="3" rx="1.5" fill="#0A8E97"/>
-    <text x="20" y="54" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#0B2233">15</text>
+    <text x="20" y="54" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#0B2233">16</text>
     <text x="20" y="80" font-size="14" font-weight="700" fill="#0A8E97">journal venues</text>
     <text x="20" y="102" font-size="12" font-weight="500" fill="#547985">peer-reviewed publications</text>
   </g>
