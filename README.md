@@ -194,6 +194,7 @@ My work spans transportation safety, travel behaviour, intelligent mobility, sus
 <a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=International+Journal+of+Integrated+Engineering&color=087F8C&style=flat-square" alt="Published: International Journal of Integrated Engineering"></a>
 <a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Journal+of+Public+Transportation&color=005A8D&style=flat-square" alt="Published: Journal of Public Transportation"></a>
 <a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Journal+of+Transformative+Technologies+and+Sustainable+Development&color=8A4FFF&style=flat-square" alt="Published: Journal of Transformative Technologies and Sustainable Development"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Transport+Policy&color=087F8C&style=flat-square" alt="Published: Transport Policy"></a>
 </p>
 <p align="center"><b>Recently accepted in</b></p>
 <p align="center">
