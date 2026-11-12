@@ -1,50 +1,68 @@
 <div align="center">
-  <img src="assets/research-header-v2.svg" width="100%" alt="Mahbub Hassan - Transportation Engineering Researcher">
-
-  <br>
-
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-0B57D0?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en)
-  [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1956--8159-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1956-8159)
-  [![IEEE](https://img.shields.io/badge/IEEE-Graduate_Student_Member-00629B?style=flat-square&logo=ieee&logoColor=white)](mailto:mahbub.hassan@ieee.org)
-  [![Research Lab](https://img.shields.io/badge/B'Deshi-Research_Lab-087F8C?style=flat-square)](https://www.bdeshi-lab.org/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-B'Deshi_Research_Lab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bdeshi-lab/)
+  <img src="assets/profile-banner.png" width="100%" alt="Mahbub Hassan, transportation engineering researcher: road safety, intelligent mobility and explainable AI. M.Eng. Researcher at Chulalongkorn University and Founder of B'deshi Emerging Research Lab.">
 </div>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-1B3A63?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0006-1956-8159"><img src="https://img.shields.io/badge/ORCID-1B3A63?style=flat-square&logo=orcid&logoColor=white" alt="ORCID 0009-0006-1956-8159"></a>
+  <a href="https://www.bdeshi-lab.org/"><img src="https://img.shields.io/badge/B'deshi_Emerging_Research_Lab-F2540F?style=flat-square" alt="B'deshi Emerging Research Lab website"></a>
+  <a href="https://www.linkedin.com/company/bdeshi-lab/"><img src="https://img.shields.io/badge/LinkedIn-1B3A63?style=flat-square&logo=linkedin&logoColor=white" alt="B'deshi Emerging Research Lab on LinkedIn"></a>
+  <a href="https://www.youtube.com/@dailymahbub"><img src="https://img.shields.io/badge/YouTube-1B3A63?style=flat-square&logo=youtube&logoColor=white" alt="YouTube channel"></a>
+  <a href="mailto:mahbub.hassan@ieee.org"><img src="https://img.shields.io/badge/mahbub.hassan@ieee.org-1B3A63?style=flat-square&logo=ieee&logoColor=white" alt="Email mahbub.hassan@ieee.org"></a>
+</p>
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>M.Eng.</strong><br><sub>Transportation Engineering<br>Chulalongkorn University</sub></td>
-<td align="center" width="25%"><strong>Full Scholarship</strong><br><sub>ASEAN and Non-ASEAN<br>Countries Scholarship</sub></td>
+<td align="center" width="25%"><strong>M.Eng.</strong><br><sub>Transportation Engineering<br>Chulalongkorn University, full scholarship</sub></td>
+<td align="center" width="25%"><strong>20+</strong><br><sub>undergraduate researchers<br>mentored</sub></td>
+<td align="center" width="25%"><strong>31 reviews</strong><br><sub>for 21 journals<br>as invited reviewer</sub></td>
 <td align="center" width="25%"><strong>IEEE</strong><br><sub>Graduate Student<br>Member</sub></td>
-<td align="center" width="25%"><strong>Research Lead</strong><br><sub>Founder, B'Deshi<br>Research Lab</sub></td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
+  <a href="#about"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#research-focus"><b>Focus</b></a> &nbsp;·&nbsp;
+  <a href="#featured-research"><b>Research</b></a> &nbsp;·&nbsp;
+  <a href="#research-software"><b>Software</b></a> &nbsp;·&nbsp;
+  <a href="#open-courses"><b>Courses</b></a> &nbsp;·&nbsp;
+  <a href="#publications"><b>Publications</b></a> &nbsp;·&nbsp;
+  <a href="#leadership-and-service"><b>Leadership</b></a> &nbsp;·&nbsp;
+  <a href="#connect"><b>Contact</b></a>
+</p>
 
-`Road Safety` · `Driver Behaviour` · `Intelligent Transportation Systems` · `Sustainable Mobility` · `Explainable AI` · `LLMs for Transportation`
-
-[**Research**](#-current-research) · [**Software**](#-selected-research-software) · [**Publications**](#-publications) · [**Methods**](#-methods-and-research-tools) · [**Leadership**](#-academic-leadership-and-service) · [**Contact**](#-connect)
-
-</div>
-
-## 🔬 Research profile
+## About
 
 <table>
 <tr>
-<td width="28%" align="center" valign="top">
-  <img src="assets/mahbub-hassan-professional.png" width="230" alt="Professional portrait of Mahbub Hassan">
-  <br><sub><b>Mahbub Hassan</b><br>M.Eng. Researcher · IEEE Graduate Student Member</sub>
+<td width="26%" align="center" valign="top">
+  <img src="assets/mahbub-hassan-professional.png" width="210" alt="Portrait of Mahbub Hassan">
 </td>
-<td width="72%" valign="top">
+<td width="74%" valign="top">
   <h3>Transportation data for safer and smarter mobility</h3>
-  <p>I am an <b>M.Eng. researcher in Transportation Engineering at Chulalongkorn University</b>, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship. My work sits at the intersection of <b>road safety, driver behaviour, intelligent transportation systems, sustainable mobility, explainable machine learning, and responsible LLM applications in transportation</b>.</p>
-  <p>I build reproducible analytical workflows that connect transportation data to decisions—from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence, and policy evaluation. My aim is to produce research that is methodologically rigorous, interpretable, and useful to transportation practitioners and policymakers.</p>
-  <p><b>Research direction:</b> human-centred, data-driven transportation safety and intelligent mobility systems, with a focus on transparent methods and policy-relevant evidence.</p>
+  <p>I am an <b>M.Eng. researcher in Transportation Engineering at Chulalongkorn University</b>, supported by the university's full ASEAN and Non-ASEAN Countries Scholarship, and the founder of <b><a href="https://www.bdeshi-lab.org/">B'deshi Emerging Research Lab</a></b>.</p>
+  <p>I build reproducible analytical workflows that connect transportation data to decisions, from crash-severity modelling and behavioural analysis to traffic simulation, edge intelligence and policy evaluation. My aim is research that is methodologically rigorous, interpretable, and useful to practitioners and policymakers.</p>
+  <p><b>Research direction:</b> human-centred, data-driven transportation safety and intelligent mobility systems, with transparent methods and policy-relevant evidence.</p>
 </td>
 </tr>
 </table>
 
-## 📍 Current research
+## Research focus
+
+<table>
+<tr>
+<td width="33%" valign="top"><b>Road safety and driver behaviour</b><br><sub>Crash-severity modelling, risky driving intention and unsafe overtaking among professional drivers.</sub></td>
+<td width="33%" valign="top"><b>Intelligent transportation systems</b><br><sub>Traffic simulation in SUMO, adaptive signal control, cooperative cruise control and edge traffic forecasting.</sub></td>
+<td width="33%" valign="top"><b>Sustainable mobility</b><br><sub>Mobility as a Service, electric vehicles, carbon-aware charging and transport emissions policy.</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><b>Explainable machine learning</b><br><sub>SHAP and model-agnostic explanation, robustness testing and validation-first surrogate models.</sub></td>
+<td width="33%" valign="top"><b>Travel behaviour</b><br><sub>Mode choice and technology adoption using surveys, PLS-SEM, fsQCA and interpretable ML.</sub></td>
+<td width="33%" valign="top"><b>LLMs for transportation</b><br><sub>Responsible large language model applications, from literature mapping to retrieval-assisted tools.</sub></td>
+</tr>
+</table>
+
+## Featured research
 
 <table>
 <tr>
@@ -52,7 +70,7 @@
 
 ### [South Australia Road Crash Severity](https://github.com/mahbubchula/sa-road-crash-research)
 
-A submission-ready study combining spatiotemporal risk profiling, inferential statistics, comparative machine learning, robustness analysis, and explainable AI across **190,910 crashes from 2012-2024**.
+A submission-ready study combining spatiotemporal risk profiling, inferential statistics, comparative machine learning, robustness analysis and explainable AI across **190,910 crashes from 2012 to 2024**.
 
 | Evidence base | Modelling | Validation | Explainability |
 |:---:|:---:|:---:|:---:|
@@ -70,42 +88,45 @@ A submission-ready study combining spatiotemporal risk profiling, inferential st
 </tr>
 </table>
 
-## 📊 Research snapshots
-
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
   <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/01_annual_trend.png">
     <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/01_annual_trend.png" width="100%" alt="Annual crash trend and severity composition">
   </a>
-  <br><sub><b>Thirteen-year crash trend</b><br>Frequency and severity composition, 2012-2024</sub>
+  <br><sub><b>Thirteen-year trend</b><br>Frequency and severity</sub>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
   <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/21_odds_ratio_forest.png">
     <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/21_odds_ratio_forest.png" width="100%" alt="Adjusted odds ratios for serious and fatal road crashes">
   </a>
-  <br><sub><b>Adjusted risk factors</b><br>Multivariable odds ratios with 95% confidence intervals</sub>
+  <br><sub><b>Adjusted risk factors</b><br>Odds ratios, 95% CI</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
   <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/23_roc_pr_all_models.png">
     <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/23_roc_pr_all_models.png" width="100%" alt="ROC and precision-recall comparison across five machine-learning models">
   </a>
-  <br><sub><b>Comparative model evaluation</b><br>ROC and precision-recall curves across five algorithms</sub>
+  <br><sub><b>Model comparison</b><br>ROC and precision-recall</sub>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
   <a href="https://github.com/mahbubchula/sa-road-crash-research/blob/main/outputs/figures/09_shap_summary.png">
     <img src="https://raw.githubusercontent.com/mahbubchula/sa-road-crash-research/main/outputs/figures/09_shap_summary.png" width="100%" alt="SHAP summary of road crash severity predictors">
   </a>
-  <br><sub><b>Explainable machine learning</b><br>Global SHAP effects for crash-severity prediction</sub>
+  <br><sub><b>Explainability</b><br>Global SHAP effects</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>Figures are generated by the reproducible workflow in the <a href="https://github.com/mahbubchula/sa-road-crash-research">South Australia Road Crash Severity repository</a>.</sub></p>
+### More research code
 
-## 🧰 Selected research software
+| Repository | Summary |
+|---|---|
+| [**sumo-surrogate-xai**](https://github.com/mahbubchula/sumo-surrogate-xai) | Validation-first explainable surrogates of activity-based SUMO traffic simulation, tested against 10,216 simulator runs. |
+| [**mobility-constrained-carbon-aware-v2g-scheduling**](https://github.com/mahbubchula/mobility-constrained-carbon-aware-v2g-scheduling) | Carbon-aware G2V and V2G scheduling under mobility constraints, with optimization and robustness analysis. |
+| [**RL-CACC-Cruise-Control**](https://github.com/mahbubchula/RL-CACC-Cruise-Control) | Reinforcement learning-enhanced cooperative adaptive cruise control in signalized mixed-autonomy urban networks. |
+| [**unsafe-overtaking-intercity-bus-drivers-bangladesh**](https://github.com/mahbubchula/unsafe-overtaking-intercity-bus-drivers-bangladesh) | M.Eng. thesis resources on unsafe overtaking among professional intercity bus drivers in Bangladesh. |
+
+## Research software
 
 <table>
 <tr>
@@ -113,7 +134,7 @@ A submission-ready study combining spatiotemporal risk profiling, inferential st
 
 ### [Thai AccidentIQ AI](https://github.com/mahbubchula/Thai-AccidentIQ-AI)
 
-Road-accident severity analytics for Thailand using 81,735 records, four tuned ensemble models, SHAP explanations, and a policy-facing dashboard.
+Road-accident severity analytics for Thailand using 81,735 records, four tuned ensemble models, SHAP explanations and a policy-facing dashboard.
 
 `Road Safety` `XAI` `Streamlit`
 
@@ -133,7 +154,7 @@ Few-shot edge traffic forecasting with a **5.46 KB** quantised model and 48-hour
 
 ### [clickSUMO](https://github.com/mahbubchula/clickSUMO)
 
-Open-source platform for one-click SUMO network creation, simulation, RAG-assisted documentation, and intelligent signal optimisation.
+Open-source platform for one-click SUMO network creation, simulation, RAG-assisted documentation and intelligent signal optimisation.
 
 `Traffic Simulation` `SUMO` `Research Software`
 
@@ -142,7 +163,7 @@ Open-source platform for one-click SUMO network creation, simulation, RAG-assist
 
 ### [EcoMoveAI](https://github.com/mahbubchula/ecoMoveAI)
 
-Transparent scenario-based evaluation of transport CO2, fuel costs, carbon pricing, subsidies, congestion charges, and marginal abatement costs.
+Transparent scenario-based evaluation of transport CO2, fuel costs, carbon pricing, subsidies, congestion charges and marginal abatement costs.
 
 `Sustainable Mobility` `Policy Analysis` `Reproducibility`
 
@@ -153,7 +174,7 @@ Transparent scenario-based evaluation of transport CO2, fuel costs, carbon prici
 
 ### [ParkSense-AI](https://github.com/mahbubchula/ParkSense-AI)
 
-Real-time parking intelligence across 2,500+ Singapore carparks using HDB, LTA, and URA data for operational and planning insight.
+Real-time parking intelligence across 2,500+ Singapore carparks using HDB, LTA and URA data for operational and planning insight.
 
 `Urban Analytics` `Open Data` `Decision Support`
 
@@ -162,7 +183,7 @@ Real-time parking intelligence across 2,500+ Singapore carparks using HDB, LTA, 
 
 ### [Research for Everybody](https://github.com/mahbubchula/research-for-everybody-course)
 
-An open, 18-module research-methodology course spanning question formulation, study design, analysis, academic writing, and publication.
+An open, 18-module research-methodology course spanning question formulation, study design, analysis, academic writing and publication.
 
 `Open Education` `Research Methods` `Mentoring`
 
@@ -170,45 +191,57 @@ An open, 18-module research-methodology course spanning question formulation, st
 </tr>
 </table>
 
-## 📚 Publications
+## Open courses
 
-My work spans transportation safety, travel behaviour, intelligent mobility, sustainable transport, simulation, explainable AI, extended reality, and large language models for transportation. The complete and current record is maintained on [Google Scholar](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en).
+Free, self-paced learning resources for students and early-career researchers.
 
-### Publication venues
+| Course | What it covers |
+|---|---|
+| [**Research for Everybody**](https://github.com/mahbubchula/research-for-everybody-course) | 18 modules on study design, analysis, academic writing and publication. |
+| [**Bayesian Statistics**](https://github.com/mahbubchula/bayesian-statistics-course) | Modules, labs, assignments and datasets using PyMC and ArviZ. |
+| [**Practical Regression Analysis**](https://github.com/mahbubchula/practical-regression-analysis-course) | Linear regression with modules, labs, assignments and datasets. |
+| [**EFA, CFA and CB-SEM**](https://github.com/mahbubchula/EFA_CFA-Course) | Factor analysis and structural equation modelling for transportation and behavioural research. |
+| [**SmartPLS 4 Regression and Reporting**](https://github.com/mahbubchula/SmartPLS4-Regression-Results-Reporting) | Results assessment, bootstrapping, PLS-SEM evaluation and reporting templates. |
+| [**Bibliometric Analysis Guide**](https://github.com/mahbubchula/Bibliometric-Guide) | Biblioshiny and VOSviewer, from first search to published paper. |
+| [**Intelligent Transportation Systems**](https://github.com/mahbubchula/ITS-Course-by-Mahbub-Hassan) | Graduate-level ITS course. |
+
+## Publications
+
+My work spans transportation safety, travel behaviour, intelligent mobility, sustainable transport, simulation, explainable AI, extended reality and large language models for transportation. The complete and current record is on [Google Scholar](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en).
 
 <!-- PUBLICATION-VENUES:START -->
-<p align="center"><b>Published in</b></p>
+<p align="center"><b>Published in 17 journals</b></p>
 <p align="center">
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Results+in+Engineering&color=F26B21&style=flat-square" alt="Published: Results in Engineering"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Archives+of+Computational+Methods+in+Engineering&color=176B45&style=flat-square" alt="Published: Archives of Computational Methods in Engineering"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Discover+Civil+Engineering&color=6F42C1&style=flat-square" alt="Published: Discover Civil Engineering"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Energy+Engineering&color=D35400&style=flat-square" alt="Published: Energy Engineering"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=IEEE+Access&color=00629B&style=flat-square" alt="Published: IEEE Access"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Transportation+Research+Part+F%3A+Traffic+Psychology+and+Behaviour&color=E76F00&style=flat-square" alt="Published: Transportation Research Part F: Traffic Psychology and Behaviour"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Asean+Journal+of+Scientific+and+Technological+Reports&color=087F8C&style=flat-square" alt="Published: Asean Journal of Scientific and Technological Reports"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Computers%2C+Materials+%26+Continua&color=B23A48&style=flat-square" alt="Published: Computers, Materials &amp; Continua"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Energy+Conversion+and+Management%3A+X&color=009B77&style=flat-square" alt="Published: Energy Conversion and Management: X"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Frontiers+in+Future+Transportation&color=E84A5F&style=flat-square" alt="Published: Frontiers in Future Transportation"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Frontiers+in+Sustainable+Cities&color=E84A5F&style=flat-square" alt="Published: Frontiers in Sustainable Cities"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Future+Transportation&color=2A9D8F&style=flat-square" alt="Published: Future Transportation"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=International+Journal+of+Integrated+Engineering&color=087F8C&style=flat-square" alt="Published: International Journal of Integrated Engineering"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Journal+of+Public+Transportation&color=005A8D&style=flat-square" alt="Published: Journal of Public Transportation"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Journal+of+Transformative+Technologies+and+Sustainable+Development&color=8A4FFF&style=flat-square" alt="Published: Journal of Transformative Technologies and Sustainable Development"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Transport+Policy&color=087F8C&style=flat-square" alt="Published: Transport Policy"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Published&message=Transportation+Research+Interdisciplinary+Perspectives&color=E76F00&style=flat-square" alt="Published: Transportation Research Interdisciplinary Perspectives"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Results in Engineering</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Archives of Computational Methods in Engineering</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Discover Civil Engineering</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Energy Engineering</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>IEEE Access</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Transportation Research Part F: Traffic Psychology and Behaviour</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Asean Journal of Scientific and Technological Reports</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Computers, Materials &amp; Continua</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Energy Conversion and Management: X</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Frontiers in Future Transportation</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Frontiers in Sustainable Cities</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Future Transportation</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>International Journal of Integrated Engineering</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Journal of Public Transportation</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Journal of Transformative Technologies and Sustainable Development</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Transport Policy</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Transportation Research Interdisciplinary Perspectives</i></a>
 </p>
 <p align="center"><b>Recently accepted in</b></p>
 <p align="center">
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Journal+of+Public+Transportation&color=005A8D&style=flat-square" alt="Accepted: Journal of Public Transportation"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Scientific+Reports&color=24292F&style=flat-square" alt="Accepted: Scientific Reports"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Journal+of+Transformative+Technologies+and+Sustainable+Development&color=8A4FFF&style=flat-square" alt="Accepted: Journal of Transformative Technologies and Sustainable Development"></a>
-<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Accepted&message=Archives+of+Computational+Methods+in+Engineering&color=176B45&style=flat-square" alt="Accepted: Archives of Computational Methods in Engineering"></a>
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Journal of Public Transportation</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Scientific Reports</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Journal of Transformative Technologies and Sustainable Development</i></a> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><i>Archives of Computational Methods in Engineering</i></a>
 </p>
 <p align="center"><sub>Published venues refresh weekly from <a href="https://orcid.org/0009-0006-1956-8159">ORCID</a>; accepted venues are generated from the repository's structured publication feed.</sub></p>
 <!-- PUBLICATION-VENUES:END -->
 
 <details open>
-<summary><b>Recent accepted articles</b></summary>
+<summary><b>Recently accepted articles</b></summary>
 
 <!-- ACCEPTED-PUBLICATIONS:START -->
 1. **Hassan, M.**, Sarkar, P., Islam, M. K., & Rahman, M. M. H. (2026). *Willingness to adopt Mobility as a Service in a pre-deployment context: Evidence from Bangladesh using a dual-method framework*. **Journal of Public Transportation**. Accepted for publication. [DOI](https://doi.org/10.1016/j.jpubtr.2026.100176)
@@ -236,78 +269,76 @@ My work spans transportation safety, travel behaviour, intelligent mobility, sus
 
 [**View the complete publication record on Google Scholar →**](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en)
 
-## 🧪 Methods and research tools
+## Methods and tools
 
-<p align="center"><b>Programming · machine learning · research computing</b></p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="48" height="48" alt="R" title="R">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40" alt="R" title="R">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" title="scikit-learn">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" title="Jupyter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter" title="Jupyter">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" title="LaTeX">
-</p>
-
-<p align="center"><b>Transportation modelling · spatial and statistical analysis</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SUMO-Traffic_Simulation-2E8B57?style=flat-square" alt="SUMO">
-  <img src="https://img.shields.io/badge/VISSIM-Microsimulation-1565C0?style=flat-square" alt="VISSIM">
-  <img src="https://img.shields.io/badge/MATSim-Agent--Based_Mobility-6A1B9A?style=flat-square" alt="MATSim">
-  <img src="https://img.shields.io/badge/CARLA-Autonomous_Driving-00A6A6?style=flat-square" alt="CARLA">
-  <img src="https://img.shields.io/badge/SIDRA-Intersection_Analysis-E67E22?style=flat-square" alt="SIDRA">
-  <img src="https://img.shields.io/badge/QGIS-Spatial_Analysis-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS">
-  <img src="https://img.shields.io/badge/SmartPLS_4-PLS--SEM-C62828?style=flat-square" alt="SmartPLS 4">
-  <img src="https://img.shields.io/badge/SPSS-Statistical_Analysis-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="SPSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
 </p>
 
 | Area | Methods and tools |
 |---|---|
-| **Machine learning & XAI** | Python, scikit-learn, PyTorch, XGBoost, LightGBM, SHAP, LIME, model interpretation |
+| **Machine learning and XAI** | Python, scikit-learn, PyTorch, XGBoost, LightGBM, SHAP, LIME, model interpretation |
 | **Transportation modelling** | SUMO, VISSIM, MATSim, CARLA, SIDRA |
-| **Statistics & behavioural research** | R, SPSS, SmartPLS 4, regression, PLS-SEM, fsQCA |
-| **Spatial & research workflows** | QGIS, LaTeX, VOSviewer, Biblioshiny, reproducible reporting |
+| **Statistics and behavioural research** | R, SPSS, SmartPLS 4, regression, PLS-SEM, fsQCA |
+| **Spatial and research workflows** | QGIS, LaTeX, VOSviewer, Biblioshiny, reproducible reporting |
 
-## 🎓 Academic leadership and service
+## Leadership and service
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Research leadership
-
-Founded and lead [**B'Deshi Research Lab**](https://www.linkedin.com/company/bdeshi-lab/), an international transportation research group. Mentored **20+ undergraduate researchers** in research design, analysis, and scholarly publication.
-
+<td width="38%" align="center" valign="middle">
+  <a href="https://www.bdeshi-lab.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/lab-logo-dark.png">
+      <img src="assets/lab-logo-light.png" width="300" alt="B'deshi Emerging Research Lab: AI, mobility, transportation">
+    </picture>
+  </a>
 </td>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### Scholarly service
+### Founder, B'deshi Emerging Research Lab
 
-Invited reviewer for **31 manuscripts across 21 journals**, including *Journal of Cleaner Production*, *Scientific Reports*, and *Engineering Applications of Artificial Intelligence*.
+An international transportation research group that trains undergraduate students to become researchers who solve real-world problems. I have mentored **20+ undergraduate researchers** in research design, analysis and scholarly publication.
+
+[Website](https://www.bdeshi-lab.org/) · [LinkedIn](https://www.linkedin.com/company/bdeshi-lab/)
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### Scholarly service
+
+Invited reviewer for **31 manuscripts across 21 journals**, including *Journal of Cleaner Production*, *Scientific Reports* and *Engineering Applications of Artificial Intelligence*.
+
+</td>
+<td width="33%" valign="top">
 
 ### Open education
 
-Create free learning resources in research methods, statistics, machine learning, bibliometric analysis, and intelligent transportation systems.
+Free learning resources in research methods, statistics, machine learning, bibliometric analysis and intelligent transportation systems, plus research and engineering videos on [YouTube](https://www.youtube.com/@dailymahbub) with 1,000+ subscribers and 100,000+ views.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Recognition
 
@@ -317,18 +348,14 @@ Full Chulalongkorn graduate scholarship, **2nd Place Best Paper at ICSM 2025**, 
 </tr>
 </table>
 
-I also create research and engineering content on [YouTube](https://www.youtube.com/@dailymahbub), reaching 1,000+ subscribers and 100,000+ views.
+## Connect
 
-## 🤝 Connect
+I welcome research conversations and collaboration in road safety, driver behaviour, intelligent transportation systems, sustainable mobility and interpretable transportation analytics.
 
-I welcome research conversations and collaboration in road safety, driver behaviour, intelligent transportation systems, sustainable mobility, and interpretable transportation analytics.
+<p align="center">
+  <a href="mailto:mahbub.hassan@ieee.org"><img src="https://img.shields.io/badge/Email-mahbub.hassan@ieee.org-F2540F?style=for-the-badge&labelColor=0B2545" alt="Email mahbub.hassan@ieee.org"></a>
+  <a href="https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-1B3A63?style=for-the-badge&labelColor=0B2545&logo=googlescholar&logoColor=white" alt="Google Scholar publications"></a>
+  <a href="https://www.bdeshi-lab.org/"><img src="https://img.shields.io/badge/B'deshi_Lab-Website-1B3A63?style=for-the-badge&labelColor=0B2545" alt="B'deshi Emerging Research Lab website"></a>
+</p>
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/mahbub.hassan@ieee.org-Contact-00629B?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mahbub.hassan@ieee.org)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-0B57D0?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PGwRExQAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1956-8159)
-
-<sub>Bangkok, Thailand · Transportation Engineering, Chulalongkorn University</sub>
-
-</div>
+<p align="center"><sub>Bangkok, Thailand · Transportation Engineering, Chulalongkorn University</sub></p>

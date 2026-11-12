@@ -1,10 +1,9 @@
-"""Refresh publication venue badges from ORCID and accepted-paper metadata."""
+"""Refresh the publication venue list from ORCID and accepted-paper metadata."""
 
 from __future__ import annotations
 
 import html
 import json
-import urllib.parse
 import urllib.request
 from collections import Counter
 from pathlib import Path
@@ -22,23 +21,6 @@ VENUE_END = "<!-- PUBLICATION-VENUES:END -->"
 ACCEPTED_START = "<!-- ACCEPTED-PUBLICATIONS:START -->"
 ACCEPTED_END = "<!-- ACCEPTED-PUBLICATIONS:END -->"
 
-COLORS = {
-    "transportation research": "E76F00",
-    "scientific reports": "24292F",
-    "results in engineering": "F26B21",
-    "ieee access": "00629B",
-    "archives of computational": "176B45",
-    "journal of public transportation": "005A8D",
-    "frontiers": "E84A5F",
-    "energy conversion": "009B77",
-    "energy engineering": "D35400",
-    "future transportation": "2A9D8F",
-    "discover": "6F42C1",
-    "computers, materials": "B23A48",
-    "transformative technologies": "8A4FFF",
-}
-
-
 def replace_block(text: str, start: str, end: str, content: str) -> str:
     """Replace content between a unique pair of README markers."""
     if text.count(start) != 1 or text.count(end) != 1:
@@ -48,17 +30,9 @@ def replace_block(text: str, start: str, end: str, content: str) -> str:
     return f"{before}{start}\n{content.rstrip()}\n{end}{after}"
 
 
-def venue_color(name: str) -> str:
-    lowered = name.casefold()
-    return next((color for key, color in COLORS.items() if key in lowered), "087F8C")
-
-
-def badge(label: str, venue: str, color: str, link: str) -> str:
-    query = urllib.parse.urlencode(
-        {"label": label, "message": venue, "color": color, "style": "flat-square"}
-    )
-    image = f"https://img.shields.io/static/v1?{query}"
-    return f'<a href="{link}"><img src="{image}" alt="{label}: {html.escape(venue)}"></a>'
+def venue(name: str, link: str) -> str:
+    """A venue name as an italic link; plain text keeps the profile calm in both themes."""
+    return f'<a href="{link}"><i>{html.escape(name)}</i></a>'
 
 
 def orcid_journals() -> Counter[str]:
@@ -100,23 +74,24 @@ def load_accepted() -> list[dict[str, object]]:
 
 
 def render_venues(published: Counter[str], accepted: list[dict[str, object]]) -> str:
-    published_badges = [
-        badge("Published", venue, venue_color(venue), SCHOLAR_URL)
-        for venue, _ in sorted(published.items(), key=lambda item: (-item[1], item[0].casefold()))
+    separator = " &nbsp;·&nbsp;\n"
+    published_names = [
+        venue(name, SCHOLAR_URL)
+        for name, _ in sorted(published.items(), key=lambda item: (-item[1], item[0].casefold()))
     ]
-    accepted_venues = list(dict.fromkeys(str(item["journal"]) for item in accepted))
-    accepted_badges = [
-        badge("Accepted", venue, venue_color(venue), SCHOLAR_URL) for venue in accepted_venues
+    accepted_names = [
+        venue(name, SCHOLAR_URL)
+        for name in dict.fromkeys(str(item["journal"]) for item in accepted)
     ]
     return "\n".join(
         [
-            '<p align="center"><b>Published in</b></p>',
+            f'<p align="center"><b>Published in {len(published_names)} journals</b></p>',
             '<p align="center">',
-            "\n".join(published_badges),
+            separator.join(published_names),
             "</p>",
             '<p align="center"><b>Recently accepted in</b></p>',
             '<p align="center">',
-            "\n".join(accepted_badges),
+            separator.join(accepted_names),
             "</p>",
             (
                 '<p align="center"><sub>Published venues refresh weekly from '

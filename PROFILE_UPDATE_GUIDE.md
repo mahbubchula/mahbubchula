@@ -10,7 +10,7 @@ This image is public because it is stored in the profile repository. The CV rema
 
 ## Add or remove a skill logo
 
-In the **Methods and research tools** section of `README.md`, copy one existing logo line and change its image URL, `alt`, and `title`. Use an official or stable icon source and include only tools you actively use. Keep the main logo row to roughly 8–12 items; add specialised transportation or analysis software to the compact badge row below it.
+In the **Methods and research tools** section of `README.md`, copy one existing logo line and change its image URL, `alt`, and `title`. Use an official or stable icon source and include only tools you actively use. Keep the main logo row to roughly 8–12 items; add specialised transportation or analysis software to the table below it.
 
 ## Add an accepted article
 
@@ -26,7 +26,7 @@ Open `data/accepted_publications.json` and add one object:
 }
 ```
 
-Commit the data file. GitHub Actions will validate it, regenerate the accepted-paper list, update the accepted-venue badges, and commit the refreshed README. Leave `doi` empty until one is assigned.
+Commit the data file. GitHub Actions will validate it, regenerate the accepted-paper list, update the accepted-venue list, and commit the refreshed README. Leave `doi` empty until one is assigned.
 
 ## Add a published article
 
@@ -44,7 +44,7 @@ Use:
 
 Keep only selected work on the profile and use Google Scholar for the full record.
 
-Published venue badges come from ORCID automatically. Add a new published work to the public ORCID record; the Monday workflow will include its journal. Use the **Update publication highlights** workflow's `Run workflow` button for an immediate refresh.
+The list of published venues comes from ORCID automatically. Add a new published work to the public ORCID record; the Monday workflow will include its journal. Use the **Update publication highlights** workflow's `Run workflow` button for an immediate refresh.
 
 ## Add a research figure
 
@@ -57,7 +57,7 @@ Use a stable raw GitHub URL and provide meaningful alternative text:
 <br><sub><b>Short figure title</b><br>One-line explanation</sub>
 ```
 
-Add figures in pairs so the two-column gallery stays balanced.
+The gallery under Featured research is one row of four figures; replace a figure rather than adding a fifth.
 
 ## Add a research software project
 
@@ -77,3 +77,7 @@ Add project cards in pairs. Avoid placeholders, claims without evidence, and lar
 - Do not upload a CV containing personal phone numbers or referees' contact details.
 - Preview both GitHub light and dark modes before publishing.
 - Commit with a focused message, for example: `docs: add new accepted article`.
+
+## Replace the banner or the lab logo
+
+The banner is `assets/profile-banner.png` (2400 x 640 px). The lab logo is `assets/lab-logo-light.png` for the light theme and `assets/lab-logo-dark.png` for the dark theme. Replace a file with a new PNG of the same name and size; nothing else needs to change.
